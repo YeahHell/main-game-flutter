@@ -1,0 +1,4 @@
+module ZipArchive {
+umbrella header "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/ZipArchive/SSZipArchive/include/ZipArchive.h"
+export *
+}

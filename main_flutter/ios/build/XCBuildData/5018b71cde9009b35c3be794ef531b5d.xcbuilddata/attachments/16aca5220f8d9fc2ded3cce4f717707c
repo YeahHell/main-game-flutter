@@ -1,0 +1,4 @@
+module Moya {
+header "Moya-Swift.h"
+export *
+}

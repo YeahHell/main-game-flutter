@@ -1,0 +1,4 @@
+module NNNetwork {
+header "NNNetwork-Swift.h"
+export *
+}

@@ -1,0 +1,4 @@
+module PopupView {
+header "PopupView-Swift.h"
+export *
+}

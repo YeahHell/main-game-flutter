@@ -1,0 +1,68 @@
+{
+  "" : {
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/build/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/NNNetwork-master.dia",
+    "emit-module-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/build/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/NNNetwork-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/build/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/NNNetwork-master-emit-module.dia",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/build/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/NNNetwork-master.swiftdeps"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/Sources/NNNetwork/APIs/BaseAPI.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/build/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/BaseAPI.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/build/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/BaseAPI.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/build/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/BaseAPI.dia",
+    "index-unit-output-path" : "/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/BaseAPI.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/build/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/BaseAPI.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/build/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/BaseAPI.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/build/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/BaseAPI.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/build/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/BaseAPI~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/Sources/NNNetwork/APIs/BaseInterceptor.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/build/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/BaseInterceptor.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/build/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/BaseInterceptor.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/build/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/BaseInterceptor.dia",
+    "index-unit-output-path" : "/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/BaseInterceptor.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/build/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/BaseInterceptor.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/build/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/BaseInterceptor.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/build/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/BaseInterceptor.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/build/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/BaseInterceptor~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/Sources/NNNetwork/Base/APIConfig.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/build/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/APIConfig.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/build/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/APIConfig.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/build/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/APIConfig.dia",
+    "index-unit-output-path" : "/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/APIConfig.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/build/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/APIConfig.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/build/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/APIConfig.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/build/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/APIConfig.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/build/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/APIConfig~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/Sources/NNNetwork/Base/APIServiceTarget.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/build/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/APIServiceTarget.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/build/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/APIServiceTarget.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/build/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/APIServiceTarget.dia",
+    "index-unit-output-path" : "/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/APIServiceTarget.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/build/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/APIServiceTarget.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/build/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/APIServiceTarget.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/build/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/APIServiceTarget.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/build/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/APIServiceTarget~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/Sources/NNNetwork/Base/NetworkError.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/build/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/NetworkError.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/build/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/NetworkError.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/build/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/NetworkError.dia",
+    "index-unit-output-path" : "/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/NetworkError.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/build/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/NetworkError.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/build/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/NetworkError.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/build/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/NetworkError.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/build/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/NetworkError~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/Sources/NNNetwork/Base/NetworkService.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/build/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/NetworkService.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/build/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/NetworkService.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/build/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/NetworkService.dia",
+    "index-unit-output-path" : "/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/NetworkService.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/build/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/NetworkService.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/build/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/NetworkService.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/build/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/NetworkService.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNNetwork/build/NNNetwork.build/Debug-iphoneos/NNNetwork.build/Objects-normal/arm64/NetworkService~partial.swiftmodule"
+  }
+}

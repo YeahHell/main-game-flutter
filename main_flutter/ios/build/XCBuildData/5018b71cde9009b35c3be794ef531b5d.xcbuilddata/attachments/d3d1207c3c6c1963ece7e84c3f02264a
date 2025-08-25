@@ -1,0 +1,68 @@
+{
+  "" : {
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/build/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/CasePaths-master.dia",
+    "emit-module-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/build/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/CasePaths-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/build/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/CasePaths-master-emit-module.dia",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/build/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/CasePaths-master.swiftdeps"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/Sources/CasePaths/EnumReflection.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/build/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/EnumReflection.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/build/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/EnumReflection.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/build/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/EnumReflection.dia",
+    "index-unit-output-path" : "/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/EnumReflection.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/build/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/EnumReflection.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/build/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/EnumReflection.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/build/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/EnumReflection.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/build/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/EnumReflection~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/Sources/CasePaths/Internal/Deprecations.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/build/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/Deprecations.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/build/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/Deprecations.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/build/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/Deprecations.dia",
+    "index-unit-output-path" : "/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/Deprecations.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/build/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/Deprecations.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/build/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/Deprecations.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/build/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/Deprecations.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/build/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/Deprecations~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/Sources/CasePaths/Internal/Exports.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/build/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/Exports.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/build/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/Exports.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/build/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/Exports.dia",
+    "index-unit-output-path" : "/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/Exports.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/build/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/Exports.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/build/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/Exports.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/build/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/Exports.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/build/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/Exports~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/Sources/CasePaths/Internal/LockIsolated.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/build/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/LockIsolated.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/build/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/LockIsolated.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/build/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/LockIsolated.dia",
+    "index-unit-output-path" : "/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/LockIsolated.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/build/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/LockIsolated.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/build/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/LockIsolated.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/build/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/LockIsolated.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/build/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/LockIsolated~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/Sources/CasePaths/Macros.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/build/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/Macros.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/build/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/Macros.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/build/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/Macros.dia",
+    "index-unit-output-path" : "/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/Macros.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/build/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/Macros.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/build/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/Macros.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/build/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/Macros.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/build/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/Macros~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/Sources/CasePaths/XCTestSupport.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/build/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/XCTestSupport.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/build/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/XCTestSupport.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/build/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/XCTestSupport.dia",
+    "index-unit-output-path" : "/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/XCTestSupport.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/build/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/XCTestSupport.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/build/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/XCTestSupport.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/build/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/XCTestSupport.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-case-paths/build/swift-case-paths.build/Debug-iphoneos/CasePaths.build/Objects-normal/arm64/XCTestSupport~partial.swiftmodule"
+  }
+}

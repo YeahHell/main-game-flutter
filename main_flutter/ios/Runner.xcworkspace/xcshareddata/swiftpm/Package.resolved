@@ -1,5 +1,5 @@
 {
-  "originHash" : "84e2a3203e2a8c9597f446a0d073b4222a8b261f19e257b3da3d9b3852bed88c",
+  "originHash" : "810b69469313fdb62f2082066490d7848ef27d69b33fd75bdc536abd66344118",
   "pins" : [
     {
       "identity" : "alamofire",
@@ -20,12 +20,21 @@
       }
     },
     {
+      "identity" : "ios_nnnetwork",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/nanagroup/iOS_NNNetwork",
+      "state" : {
+        "revision" : "e068a6f2914f5fd7ab060393eade1df7da108f40",
+        "version" : "0.1.10"
+      }
+    },
+    {
       "identity" : "ios_nnuicore",
       "kind" : "remoteSourceControl",
-      "location" : "git@github.com:nanagroup/iOS_NNUICore.git",
+      "location" : "https://github.com/nanagroup/iOS_NNUICore.git",
       "state" : {
-        "revision" : "9fd18795d4a09b87bc171bf9a6a42d86f5694210",
-        "version" : "0.2.4"
+        "revision" : "d2ebec8cde522a235ea7f20b6f48b8313851bf37",
+        "version" : "0.2.5"
       }
     },
     {
@@ -71,6 +80,15 @@
       "state" : {
         "revision" : "5dd1907d64f0d36f158f61a466bab75067224893",
         "version" : "6.9.0"
+      }
+    },
+    {
+      "identity" : "spine-runtimes",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/EsotericSoftware/spine-runtimes.git",
+      "state" : {
+        "branch" : "4.2",
+        "revision" : "5d5473ee9f4ea96e74a8c00ba09c96cd25bdd308"
       }
     },
     {

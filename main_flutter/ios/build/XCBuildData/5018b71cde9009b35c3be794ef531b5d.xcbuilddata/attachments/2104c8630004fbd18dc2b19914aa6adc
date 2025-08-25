@@ -1,0 +1,48 @@
+{
+  "" : {
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-perception/build/swift-perception.build/Debug-iphoneos/PerceptionMacros.build/Objects-normal/arm64/PerceptionMacros-master.dia",
+    "emit-module-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-perception/build/swift-perception.build/Debug-iphoneos/PerceptionMacros.build/Objects-normal/arm64/PerceptionMacros-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-perception/build/swift-perception.build/Debug-iphoneos/PerceptionMacros.build/Objects-normal/arm64/PerceptionMacros-master-emit-module.dia",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-perception/build/swift-perception.build/Debug-iphoneos/PerceptionMacros.build/Objects-normal/arm64/PerceptionMacros-master.swiftdeps"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-perception/Sources/PerceptionMacros/Availability.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-perception/build/swift-perception.build/Debug-iphoneos/PerceptionMacros.build/Objects-normal/arm64/Availability.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-perception/build/swift-perception.build/Debug-iphoneos/PerceptionMacros.build/Objects-normal/arm64/Availability.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-perception/build/swift-perception.build/Debug-iphoneos/PerceptionMacros.build/Objects-normal/arm64/Availability.dia",
+    "index-unit-output-path" : "/swift-perception.build/Debug-iphoneos/PerceptionMacros.build/Objects-normal/arm64/Availability.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-perception/build/swift-perception.build/Debug-iphoneos/PerceptionMacros.build/Objects-normal/arm64/Availability.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-perception/build/swift-perception.build/Debug-iphoneos/PerceptionMacros.build/Objects-normal/arm64/Availability.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-perception/build/swift-perception.build/Debug-iphoneos/PerceptionMacros.build/Objects-normal/arm64/Availability.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-perception/build/swift-perception.build/Debug-iphoneos/PerceptionMacros.build/Objects-normal/arm64/Availability~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-perception/Sources/PerceptionMacros/Extensions.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-perception/build/swift-perception.build/Debug-iphoneos/PerceptionMacros.build/Objects-normal/arm64/Extensions.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-perception/build/swift-perception.build/Debug-iphoneos/PerceptionMacros.build/Objects-normal/arm64/Extensions.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-perception/build/swift-perception.build/Debug-iphoneos/PerceptionMacros.build/Objects-normal/arm64/Extensions.dia",
+    "index-unit-output-path" : "/swift-perception.build/Debug-iphoneos/PerceptionMacros.build/Objects-normal/arm64/Extensions.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-perception/build/swift-perception.build/Debug-iphoneos/PerceptionMacros.build/Objects-normal/arm64/Extensions.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-perception/build/swift-perception.build/Debug-iphoneos/PerceptionMacros.build/Objects-normal/arm64/Extensions.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-perception/build/swift-perception.build/Debug-iphoneos/PerceptionMacros.build/Objects-normal/arm64/Extensions.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-perception/build/swift-perception.build/Debug-iphoneos/PerceptionMacros.build/Objects-normal/arm64/Extensions~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-perception/Sources/PerceptionMacros/PerceptibleMacro.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-perception/build/swift-perception.build/Debug-iphoneos/PerceptionMacros.build/Objects-normal/arm64/PerceptibleMacro.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-perception/build/swift-perception.build/Debug-iphoneos/PerceptionMacros.build/Objects-normal/arm64/PerceptibleMacro.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-perception/build/swift-perception.build/Debug-iphoneos/PerceptionMacros.build/Objects-normal/arm64/PerceptibleMacro.dia",
+    "index-unit-output-path" : "/swift-perception.build/Debug-iphoneos/PerceptionMacros.build/Objects-normal/arm64/PerceptibleMacro.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-perception/build/swift-perception.build/Debug-iphoneos/PerceptionMacros.build/Objects-normal/arm64/PerceptibleMacro.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-perception/build/swift-perception.build/Debug-iphoneos/PerceptionMacros.build/Objects-normal/arm64/PerceptibleMacro.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-perception/build/swift-perception.build/Debug-iphoneos/PerceptionMacros.build/Objects-normal/arm64/PerceptibleMacro.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-perception/build/swift-perception.build/Debug-iphoneos/PerceptionMacros.build/Objects-normal/arm64/PerceptibleMacro~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-perception/Sources/PerceptionMacros/Plugins.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-perception/build/swift-perception.build/Debug-iphoneos/PerceptionMacros.build/Objects-normal/arm64/Plugins.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-perception/build/swift-perception.build/Debug-iphoneos/PerceptionMacros.build/Objects-normal/arm64/Plugins.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-perception/build/swift-perception.build/Debug-iphoneos/PerceptionMacros.build/Objects-normal/arm64/Plugins.dia",
+    "index-unit-output-path" : "/swift-perception.build/Debug-iphoneos/PerceptionMacros.build/Objects-normal/arm64/Plugins.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-perception/build/swift-perception.build/Debug-iphoneos/PerceptionMacros.build/Objects-normal/arm64/Plugins.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-perception/build/swift-perception.build/Debug-iphoneos/PerceptionMacros.build/Objects-normal/arm64/Plugins.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-perception/build/swift-perception.build/Debug-iphoneos/PerceptionMacros.build/Objects-normal/arm64/Plugins.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-perception/build/swift-perception.build/Debug-iphoneos/PerceptionMacros.build/Objects-normal/arm64/Plugins~partial.swiftmodule"
+  }
+}

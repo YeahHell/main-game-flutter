@@ -1,0 +1,88 @@
+{
+  "" : {
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/PopupView-master.dia",
+    "emit-module-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/PopupView-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/PopupView-master-emit-module.dia",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/PopupView-master.swiftdeps"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/Sources/PopupView/FullscreenPopup.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/FullscreenPopup.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/FullscreenPopup.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/FullscreenPopup.dia",
+    "index-unit-output-path" : "/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/FullscreenPopup.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/FullscreenPopup.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/FullscreenPopup.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/FullscreenPopup.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/FullscreenPopup~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/Sources/PopupView/Modifiers.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/Modifiers.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/Modifiers.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/Modifiers.dia",
+    "index-unit-output-path" : "/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/Modifiers.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/Modifiers.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/Modifiers.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/Modifiers.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/Modifiers~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/Sources/PopupView/PopupBackgroundView.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/PopupBackgroundView.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/PopupBackgroundView.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/PopupBackgroundView.dia",
+    "index-unit-output-path" : "/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/PopupBackgroundView.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/PopupBackgroundView.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/PopupBackgroundView.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/PopupBackgroundView.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/PopupBackgroundView~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/Sources/PopupView/PopupScrollViewDelegate.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/PopupScrollViewDelegate.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/PopupScrollViewDelegate.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/PopupScrollViewDelegate.dia",
+    "index-unit-output-path" : "/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/PopupScrollViewDelegate.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/PopupScrollViewDelegate.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/PopupScrollViewDelegate.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/PopupScrollViewDelegate.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/PopupScrollViewDelegate~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/Sources/PopupView/PopupView.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/PopupView.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/PopupView.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/PopupView.dia",
+    "index-unit-output-path" : "/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/PopupView.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/PopupView.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/PopupView.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/PopupView.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/PopupView~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/Sources/PopupView/PublicAPI.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/PublicAPI.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/PublicAPI.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/PublicAPI.dia",
+    "index-unit-output-path" : "/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/PublicAPI.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/PublicAPI.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/PublicAPI.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/PublicAPI.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/PublicAPI~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/Sources/PopupView/Utils.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/Utils.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/Utils.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/Utils.dia",
+    "index-unit-output-path" : "/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/Utils.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/Utils.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/Utils.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/Utils.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/Utils~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/Sources/PopupView/WindowManager.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/WindowManager.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/WindowManager.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/WindowManager.dia",
+    "index-unit-output-path" : "/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/WindowManager.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/WindowManager.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/WindowManager.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/WindowManager.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/PopupView/build/PopupView.build/Debug-iphoneos/PopupView.build/Objects-normal/arm64/WindowManager~partial.swiftmodule"
+  }
+}

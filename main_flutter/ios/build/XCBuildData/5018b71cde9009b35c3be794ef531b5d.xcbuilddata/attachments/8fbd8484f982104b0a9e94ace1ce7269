@@ -1,0 +1,358 @@
+{
+  "" : {
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/NNUICore-master.dia",
+    "emit-module-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/NNUICore-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/NNUICore-master-emit-module.dia",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/NNUICore-master.swiftdeps"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/Sources/NNUICore/Components/BlurredBackground.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BlurredBackground.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BlurredBackground.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BlurredBackground.dia",
+    "index-unit-output-path" : "/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BlurredBackground.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BlurredBackground.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BlurredBackground.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BlurredBackground.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BlurredBackground~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/Sources/NNUICore/Components/CurvedTabbarShape.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/CurvedTabbarShape.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/CurvedTabbarShape.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/CurvedTabbarShape.dia",
+    "index-unit-output-path" : "/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/CurvedTabbarShape.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/CurvedTabbarShape.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/CurvedTabbarShape.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/CurvedTabbarShape.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/CurvedTabbarShape~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/Sources/NNUICore/Components/KFImageLoader.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/KFImageLoader.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/KFImageLoader.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/KFImageLoader.dia",
+    "index-unit-output-path" : "/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/KFImageLoader.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/KFImageLoader.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/KFImageLoader.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/KFImageLoader.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/KFImageLoader~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/Sources/NNUICore/Components/MarqueeText.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/MarqueeText.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/MarqueeText.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/MarqueeText.dia",
+    "index-unit-output-path" : "/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/MarqueeText.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/MarqueeText.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/MarqueeText.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/MarqueeText.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/MarqueeText~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/Sources/NNUICore/Components/NNNotificationView.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/NNNotificationView.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/NNNotificationView.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/NNNotificationView.dia",
+    "index-unit-output-path" : "/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/NNNotificationView.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/NNNotificationView.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/NNNotificationView.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/NNNotificationView.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/NNNotificationView~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/Sources/NNUICore/Components/NotchSheet.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/NotchSheet.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/NotchSheet.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/NotchSheet.dia",
+    "index-unit-output-path" : "/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/NotchSheet.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/NotchSheet.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/NotchSheet.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/NotchSheet.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/NotchSheet~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/Sources/NNUICore/Components/RoundedCorner.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/RoundedCorner.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/RoundedCorner.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/RoundedCorner.dia",
+    "index-unit-output-path" : "/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/RoundedCorner.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/RoundedCorner.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/RoundedCorner.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/RoundedCorner.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/RoundedCorner~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/Sources/NNUICore/Components/Segment.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Segment.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Segment.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Segment.dia",
+    "index-unit-output-path" : "/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Segment.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Segment.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Segment.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Segment.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Segment~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/Sources/NNUICore/Components/Shimmer.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Shimmer.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Shimmer.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Shimmer.dia",
+    "index-unit-output-path" : "/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Shimmer.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Shimmer.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Shimmer.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Shimmer.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Shimmer~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/Sources/NNUICore/Components/WrappingHStack.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/WrappingHStack.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/WrappingHStack.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/WrappingHStack.dia",
+    "index-unit-output-path" : "/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/WrappingHStack.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/WrappingHStack.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/WrappingHStack.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/WrappingHStack.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/WrappingHStack~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/Sources/NNUICore/Effects/FloatingEffect.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/FloatingEffect.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/FloatingEffect.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/FloatingEffect.dia",
+    "index-unit-output-path" : "/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/FloatingEffect.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/FloatingEffect.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/FloatingEffect.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/FloatingEffect.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/FloatingEffect~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/Sources/NNUICore/Effects/ScaleEffect.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/ScaleEffect.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/ScaleEffect.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/ScaleEffect.dia",
+    "index-unit-output-path" : "/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/ScaleEffect.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/ScaleEffect.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/ScaleEffect.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/ScaleEffect.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/ScaleEffect~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/Sources/NNUICore/Effects/ShakeEffect.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/ShakeEffect.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/ShakeEffect.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/ShakeEffect.dia",
+    "index-unit-output-path" : "/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/ShakeEffect.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/ShakeEffect.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/ShakeEffect.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/ShakeEffect.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/ShakeEffect~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/Sources/NNUICore/Extensions/Calendar+Exts.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Calendar+Exts.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Calendar+Exts.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Calendar+Exts.dia",
+    "index-unit-output-path" : "/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Calendar+Exts.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Calendar+Exts.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Calendar+Exts.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Calendar+Exts.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Calendar+Exts~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/Sources/NNUICore/Extensions/Color+Exts.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Color+Exts.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Color+Exts.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Color+Exts.dia",
+    "index-unit-output-path" : "/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Color+Exts.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Color+Exts.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Color+Exts.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Color+Exts.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Color+Exts~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/Sources/NNUICore/Extensions/Date+Exts.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Date+Exts.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Date+Exts.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Date+Exts.dia",
+    "index-unit-output-path" : "/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Date+Exts.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Date+Exts.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Date+Exts.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Date+Exts.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Date+Exts~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/Sources/NNUICore/Extensions/Dictionary+Exts.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Dictionary+Exts.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Dictionary+Exts.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Dictionary+Exts.dia",
+    "index-unit-output-path" : "/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Dictionary+Exts.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Dictionary+Exts.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Dictionary+Exts.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Dictionary+Exts.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Dictionary+Exts~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/Sources/NNUICore/Extensions/String+Exts.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/String+Exts.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/String+Exts.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/String+Exts.dia",
+    "index-unit-output-path" : "/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/String+Exts.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/String+Exts.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/String+Exts.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/String+Exts.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/String+Exts~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/Sources/NNUICore/Extensions/Text+Exts.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Text+Exts.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Text+Exts.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Text+Exts.dia",
+    "index-unit-output-path" : "/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Text+Exts.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Text+Exts.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Text+Exts.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Text+Exts.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Text+Exts~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/Sources/NNUICore/Extensions/View+Exts.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/View+Exts.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/View+Exts.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/View+Exts.dia",
+    "index-unit-output-path" : "/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/View+Exts.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/View+Exts.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/View+Exts.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/View+Exts.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/View+Exts~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/Sources/NNUICore/Helpers/Logger.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Logger.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Logger.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Logger.dia",
+    "index-unit-output-path" : "/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Logger.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Logger.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Logger.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Logger.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Logger~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/Sources/NNUICore/Managers/Bundle+Exts/BundleManager+Colors.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BundleManager+Colors.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BundleManager+Colors.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BundleManager+Colors.dia",
+    "index-unit-output-path" : "/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BundleManager+Colors.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BundleManager+Colors.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BundleManager+Colors.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BundleManager+Colors.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BundleManager+Colors~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/Sources/NNUICore/Managers/Bundle+Exts/BundleManager+Fonts.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BundleManager+Fonts.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BundleManager+Fonts.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BundleManager+Fonts.dia",
+    "index-unit-output-path" : "/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BundleManager+Fonts.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BundleManager+Fonts.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BundleManager+Fonts.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BundleManager+Fonts.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BundleManager+Fonts~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/Sources/NNUICore/Managers/Bundle+Exts/BundleManager+Gradients.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BundleManager+Gradients.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BundleManager+Gradients.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BundleManager+Gradients.dia",
+    "index-unit-output-path" : "/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BundleManager+Gradients.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BundleManager+Gradients.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BundleManager+Gradients.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BundleManager+Gradients.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BundleManager+Gradients~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/Sources/NNUICore/Managers/Bundle+Exts/BundleManager+Icons.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BundleManager+Icons.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BundleManager+Icons.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BundleManager+Icons.dia",
+    "index-unit-output-path" : "/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BundleManager+Icons.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BundleManager+Icons.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BundleManager+Icons.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BundleManager+Icons.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BundleManager+Icons~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/Sources/NNUICore/Managers/Bundle+Exts/BundleManager+Localizations.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BundleManager+Localizations.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BundleManager+Localizations.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BundleManager+Localizations.dia",
+    "index-unit-output-path" : "/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BundleManager+Localizations.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BundleManager+Localizations.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BundleManager+Localizations.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BundleManager+Localizations.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BundleManager+Localizations~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/Sources/NNUICore/Managers/BundleManager.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BundleManager.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BundleManager.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BundleManager.dia",
+    "index-unit-output-path" : "/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BundleManager.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BundleManager.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BundleManager.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BundleManager.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BundleManager~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/Sources/NNUICore/Modifiers/BounceEffectModifier.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BounceEffectModifier.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BounceEffectModifier.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BounceEffectModifier.dia",
+    "index-unit-output-path" : "/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BounceEffectModifier.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BounceEffectModifier.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BounceEffectModifier.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BounceEffectModifier.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/BounceEffectModifier~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/Sources/NNUICore/Modifiers/CapsuleTagModifier.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/CapsuleTagModifier.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/CapsuleTagModifier.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/CapsuleTagModifier.dia",
+    "index-unit-output-path" : "/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/CapsuleTagModifier.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/CapsuleTagModifier.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/CapsuleTagModifier.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/CapsuleTagModifier.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/CapsuleTagModifier~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/Sources/NNUICore/Modifiers/SensoryFeedbackModifier.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/SensoryFeedbackModifier.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/SensoryFeedbackModifier.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/SensoryFeedbackModifier.dia",
+    "index-unit-output-path" : "/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/SensoryFeedbackModifier.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/SensoryFeedbackModifier.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/SensoryFeedbackModifier.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/SensoryFeedbackModifier.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/SensoryFeedbackModifier~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/Sources/NNUICore/Modifiers/UnderlineIfNeeded.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/UnderlineIfNeeded.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/UnderlineIfNeeded.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/UnderlineIfNeeded.dia",
+    "index-unit-output-path" : "/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/UnderlineIfNeeded.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/UnderlineIfNeeded.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/UnderlineIfNeeded.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/UnderlineIfNeeded.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/UnderlineIfNeeded~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/Sources/NNUICore/Styles/PressableButtonStyle.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/PressableButtonStyle.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/PressableButtonStyle.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/PressableButtonStyle.dia",
+    "index-unit-output-path" : "/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/PressableButtonStyle.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/PressableButtonStyle.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/PressableButtonStyle.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/PressableButtonStyle.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/PressableButtonStyle~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/Sources/NNUICore/UIKit/Blur.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Blur.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Blur.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Blur.dia",
+    "index-unit-output-path" : "/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Blur.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Blur.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Blur.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Blur.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/Blur~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/Sources/NNUICore/UIKit/WebviewContainer.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/WebviewContainer.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/WebviewContainer.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/WebviewContainer.dia",
+    "index-unit-output-path" : "/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/WebviewContainer.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/WebviewContainer.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/WebviewContainer.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/WebviewContainer.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/WebviewContainer~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/Sources/NNUICore/Utils/UserDefaultsStorage.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/UserDefaultsStorage.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/UserDefaultsStorage.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/UserDefaultsStorage.dia",
+    "index-unit-output-path" : "/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/UserDefaultsStorage.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/UserDefaultsStorage.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/UserDefaultsStorage.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/UserDefaultsStorage.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/iOS_NNUICore/build/NNUICore.build/Debug-iphoneos/NNUICore.build/Objects-normal/arm64/UserDefaultsStorage~partial.swiftmodule"
+  }
+}

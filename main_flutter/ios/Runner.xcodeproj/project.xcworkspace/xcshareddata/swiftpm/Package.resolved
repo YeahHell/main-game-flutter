@@ -1,5 +1,5 @@
 {
-  "originHash" : "84e2a3203e2a8c9597f446a0d073b4222a8b261f19e257b3da3d9b3852bed88c",
+  "originHash" : "e3f9d7549848079daf7e3bd36e9dbc150ec99dfef6e960fc6ce5757bd456bee0",
   "pins" : [
     {
       "identity" : "alamofire",
@@ -20,12 +20,21 @@
       }
     },
     {
+      "identity" : "ios_nnnetwork",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/nanagroup/iOS_NNNetwork",
+      "state" : {
+        "revision" : "e068a6f2914f5fd7ab060393eade1df7da108f40",
+        "version" : "0.1.10"
+      }
+    },
+    {
       "identity" : "ios_nnuicore",
       "kind" : "remoteSourceControl",
-      "location" : "git@github.com:nanagroup/iOS_NNUICore.git",
+      "location" : "https://github.com/nanagroup/iOS_NNUICore.git",
       "state" : {
-        "revision" : "9fd18795d4a09b87bc171bf9a6a42d86f5694210",
-        "version" : "0.2.4"
+        "revision" : "d2ebec8cde522a235ea7f20b6f48b8313851bf37",
+        "version" : "0.2.5"
       }
     },
     {
@@ -74,6 +83,15 @@
       }
     },
     {
+      "identity" : "spine-runtimes",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/EsotericSoftware/spine-runtimes.git",
+      "state" : {
+        "branch" : "4.2",
+        "revision" : "5d5473ee9f4ea96e74a8c00ba09c96cd25bdd308"
+      }
+    },
+    {
       "identity" : "swift-case-paths",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/pointfreeco/swift-case-paths",
@@ -105,8 +123,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/pointfreeco/swift-composable-architecture.git",
       "state" : {
-        "revision" : "4c47829a080789cf20d82c64d8c27291352391d4",
-        "version" : "1.21.1"
+        "revision" : "d2c1bfb5859c81d1fd14437e9eb697137dd61bc9",
+        "version" : "1.22.1"
       }
     },
     {
@@ -132,8 +150,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/pointfreeco/swift-dependencies",
       "state" : {
-        "revision" : "eefcdaa88d2e2fd82e3405dfb6eb45872011a0b5",
-        "version" : "1.9.3"
+        "revision" : "a501eebe552fd23691c560adf474fca2169ad8aa",
+        "version" : "1.9.4"
       }
     },
     {
@@ -168,8 +186,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/pointfreeco/swift-sharing",
       "state" : {
-        "revision" : "bddb52233714512f63e0dfa8cd0ee8203103f3b1",
-        "version" : "2.7.1"
+        "revision" : "530c98ac2c3e393615616bd6d8fc604600c99f6f",
+        "version" : "2.7.2"
       }
     },
     {

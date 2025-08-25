@@ -1,0 +1,338 @@
+{
+  "" : {
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/SwiftDate-master.dia",
+    "emit-module-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/SwiftDate-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/SwiftDate-master-emit-module.dia",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/SwiftDate-master.swiftdeps"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/Sources/SwiftDate/Date/Date+Compare.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Date+Compare.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Date+Compare.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Date+Compare.dia",
+    "index-unit-output-path" : "/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Date+Compare.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Date+Compare.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Date+Compare.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Date+Compare.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Date+Compare~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/Sources/SwiftDate/Date/Date+Components.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Date+Components.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Date+Components.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Date+Components.dia",
+    "index-unit-output-path" : "/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Date+Components.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Date+Components.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Date+Components.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Date+Components.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Date+Components~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/Sources/SwiftDate/Date/Date+Create.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Date+Create.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Date+Create.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Date+Create.dia",
+    "index-unit-output-path" : "/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Date+Create.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Date+Create.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Date+Create.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Date+Create.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Date+Create~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/Sources/SwiftDate/Date/Date+Math.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Date+Math.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Date+Math.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Date+Math.dia",
+    "index-unit-output-path" : "/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Date+Math.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Date+Math.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Date+Math.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Date+Math.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Date+Math~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/Sources/SwiftDate/Date/Date.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Date.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Date.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Date.dia",
+    "index-unit-output-path" : "/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Date.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Date.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Date.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Date.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Date~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/Sources/SwiftDate/DateInRegion/DateInRegion+Compare.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateInRegion+Compare.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateInRegion+Compare.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateInRegion+Compare.dia",
+    "index-unit-output-path" : "/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateInRegion+Compare.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateInRegion+Compare.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateInRegion+Compare.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateInRegion+Compare.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateInRegion+Compare~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/Sources/SwiftDate/DateInRegion/DateInRegion+Components.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateInRegion+Components.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateInRegion+Components.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateInRegion+Components.dia",
+    "index-unit-output-path" : "/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateInRegion+Components.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateInRegion+Components.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateInRegion+Components.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateInRegion+Components.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateInRegion+Components~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/Sources/SwiftDate/DateInRegion/DateInRegion+Create.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateInRegion+Create.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateInRegion+Create.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateInRegion+Create.dia",
+    "index-unit-output-path" : "/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateInRegion+Create.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateInRegion+Create.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateInRegion+Create.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateInRegion+Create.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateInRegion+Create~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/Sources/SwiftDate/DateInRegion/DateInRegion+Math.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateInRegion+Math.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateInRegion+Math.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateInRegion+Math.dia",
+    "index-unit-output-path" : "/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateInRegion+Math.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateInRegion+Math.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateInRegion+Math.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateInRegion+Math.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateInRegion+Math~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/Sources/SwiftDate/DateInRegion/DateInRegion.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateInRegion.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateInRegion.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateInRegion.dia",
+    "index-unit-output-path" : "/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateInRegion.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateInRegion.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateInRegion.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateInRegion.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateInRegion~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/Sources/SwiftDate/DateInRegion/Region.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Region.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Region.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Region.dia",
+    "index-unit-output-path" : "/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Region.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Region.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Region.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Region.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Region~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/Sources/SwiftDate/DateRepresentable.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateRepresentable.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateRepresentable.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateRepresentable.dia",
+    "index-unit-output-path" : "/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateRepresentable.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateRepresentable.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateRepresentable.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateRepresentable.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateRepresentable~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/Sources/SwiftDate/Formatters/DotNetParserFormatter.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DotNetParserFormatter.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DotNetParserFormatter.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DotNetParserFormatter.dia",
+    "index-unit-output-path" : "/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DotNetParserFormatter.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DotNetParserFormatter.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DotNetParserFormatter.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DotNetParserFormatter.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DotNetParserFormatter~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/Sources/SwiftDate/Formatters/Formatter+Protocols.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Formatter+Protocols.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Formatter+Protocols.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Formatter+Protocols.dia",
+    "index-unit-output-path" : "/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Formatter+Protocols.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Formatter+Protocols.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Formatter+Protocols.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Formatter+Protocols.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Formatter+Protocols~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/Sources/SwiftDate/Formatters/ISOFormatter.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/ISOFormatter.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/ISOFormatter.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/ISOFormatter.dia",
+    "index-unit-output-path" : "/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/ISOFormatter.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/ISOFormatter.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/ISOFormatter.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/ISOFormatter.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/ISOFormatter~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/Sources/SwiftDate/Formatters/ISOParser.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/ISOParser.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/ISOParser.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/ISOParser.dia",
+    "index-unit-output-path" : "/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/ISOParser.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/ISOParser.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/ISOParser.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/ISOParser.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/ISOParser~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/Sources/SwiftDate/Foundation+Extras/DateComponents+Extras.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateComponents+Extras.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateComponents+Extras.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateComponents+Extras.dia",
+    "index-unit-output-path" : "/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateComponents+Extras.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateComponents+Extras.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateComponents+Extras.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateComponents+Extras.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/DateComponents+Extras~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/Sources/SwiftDate/Foundation+Extras/Int+DateComponents.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Int+DateComponents.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Int+DateComponents.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Int+DateComponents.dia",
+    "index-unit-output-path" : "/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Int+DateComponents.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Int+DateComponents.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Int+DateComponents.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Int+DateComponents.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Int+DateComponents~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/Sources/SwiftDate/Foundation+Extras/String+Parser.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/String+Parser.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/String+Parser.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/String+Parser.dia",
+    "index-unit-output-path" : "/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/String+Parser.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/String+Parser.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/String+Parser.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/String+Parser.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/String+Parser~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/Sources/SwiftDate/Foundation+Extras/TimeInterval+Formatter.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimeInterval+Formatter.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimeInterval+Formatter.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimeInterval+Formatter.dia",
+    "index-unit-output-path" : "/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimeInterval+Formatter.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimeInterval+Formatter.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimeInterval+Formatter.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimeInterval+Formatter.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimeInterval+Formatter~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/Sources/SwiftDate/Supports/AssociatedValues.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/AssociatedValues.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/AssociatedValues.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/AssociatedValues.dia",
+    "index-unit-output-path" : "/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/AssociatedValues.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/AssociatedValues.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/AssociatedValues.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/AssociatedValues.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/AssociatedValues~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/Sources/SwiftDate/Supports/Calendars.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Calendars.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Calendars.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Calendars.dia",
+    "index-unit-output-path" : "/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Calendars.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Calendars.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Calendars.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Calendars.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Calendars~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/Sources/SwiftDate/Supports/Commons.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Commons.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Commons.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Commons.dia",
+    "index-unit-output-path" : "/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Commons.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Commons.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Commons.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Commons.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Commons~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/Sources/SwiftDate/Supports/Locales.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Locales.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Locales.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Locales.dia",
+    "index-unit-output-path" : "/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Locales.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Locales.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Locales.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Locales.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Locales~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/Sources/SwiftDate/Supports/TimeStructures.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimeStructures.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimeStructures.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimeStructures.dia",
+    "index-unit-output-path" : "/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimeStructures.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimeStructures.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimeStructures.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimeStructures.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimeStructures~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/Sources/SwiftDate/Supports/Zones.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Zones.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Zones.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Zones.dia",
+    "index-unit-output-path" : "/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Zones.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Zones.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Zones.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Zones.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/Zones~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/Sources/SwiftDate/SwiftDate.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/SwiftDate.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/SwiftDate.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/SwiftDate.dia",
+    "index-unit-output-path" : "/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/SwiftDate.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/SwiftDate.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/SwiftDate.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/SwiftDate.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/SwiftDate~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/Sources/SwiftDate/TimePeriod/Groups/TimePeriodChain.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimePeriodChain.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimePeriodChain.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimePeriodChain.dia",
+    "index-unit-output-path" : "/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimePeriodChain.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimePeriodChain.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimePeriodChain.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimePeriodChain.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimePeriodChain~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/Sources/SwiftDate/TimePeriod/Groups/TimePeriodCollection.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimePeriodCollection.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimePeriodCollection.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimePeriodCollection.dia",
+    "index-unit-output-path" : "/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimePeriodCollection.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimePeriodCollection.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimePeriodCollection.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimePeriodCollection.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimePeriodCollection~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/Sources/SwiftDate/TimePeriod/Groups/TimePeriodGroup.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimePeriodGroup.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimePeriodGroup.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimePeriodGroup.dia",
+    "index-unit-output-path" : "/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimePeriodGroup.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimePeriodGroup.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimePeriodGroup.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimePeriodGroup.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimePeriodGroup~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/Sources/SwiftDate/TimePeriod/TimePeriod+Support.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimePeriod+Support.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimePeriod+Support.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimePeriod+Support.dia",
+    "index-unit-output-path" : "/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimePeriod+Support.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimePeriod+Support.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimePeriod+Support.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimePeriod+Support.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimePeriod+Support~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/Sources/SwiftDate/TimePeriod/TimePeriod.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimePeriod.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimePeriod.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimePeriod.dia",
+    "index-unit-output-path" : "/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimePeriod.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimePeriod.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimePeriod.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimePeriod.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimePeriod~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/Sources/SwiftDate/TimePeriod/TimePeriodProtocol.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimePeriodProtocol.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimePeriodProtocol.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimePeriodProtocol.dia",
+    "index-unit-output-path" : "/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimePeriodProtocol.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimePeriodProtocol.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimePeriodProtocol.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimePeriodProtocol.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/SwiftDate/build/SwiftDate.build/Debug-iphoneos/SwiftDate.build/Objects-normal/arm64/TimePeriodProtocol~partial.swiftmodule"
+  }
+}

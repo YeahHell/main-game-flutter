@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-sharing/build/swift-sharing.build/Debug-iphoneos/Sharing1.build/Objects-normal/arm64/Sharing1-master.dia",
+    "emit-module-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-sharing/build/swift-sharing.build/Debug-iphoneos/Sharing1.build/Objects-normal/arm64/Sharing1-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-sharing/build/swift-sharing.build/Debug-iphoneos/Sharing1.build/Objects-normal/arm64/Sharing1-master-emit-module.dia",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-sharing/build/swift-sharing.build/Debug-iphoneos/Sharing1.build/Objects-normal/arm64/Sharing1-master.swiftdeps"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-sharing/Sources/VersionMarkerModules/Sharing1/Empty.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-sharing/build/swift-sharing.build/Debug-iphoneos/Sharing1.build/Objects-normal/arm64/Empty.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-sharing/build/swift-sharing.build/Debug-iphoneos/Sharing1.build/Objects-normal/arm64/Empty.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-sharing/build/swift-sharing.build/Debug-iphoneos/Sharing1.build/Objects-normal/arm64/Empty.dia",
+    "index-unit-output-path" : "/swift-sharing.build/Debug-iphoneos/Sharing1.build/Objects-normal/arm64/Empty.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-sharing/build/swift-sharing.build/Debug-iphoneos/Sharing1.build/Objects-normal/arm64/Empty.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-sharing/build/swift-sharing.build/Debug-iphoneos/Sharing1.build/Objects-normal/arm64/Empty.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-sharing/build/swift-sharing.build/Debug-iphoneos/Sharing1.build/Objects-normal/arm64/Empty.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/swift-sharing/build/swift-sharing.build/Debug-iphoneos/Sharing1.build/Objects-normal/arm64/Empty~partial.swiftmodule"
+  }
+}

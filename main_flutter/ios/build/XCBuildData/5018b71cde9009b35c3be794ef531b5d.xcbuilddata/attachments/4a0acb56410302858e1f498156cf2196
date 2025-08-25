@@ -1,0 +1,4 @@
+module Spine {
+header "Spine-Swift.h"
+export *
+}

@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/SpineModule.build/Objects-normal/arm64/SpineModule-master.dia",
+    "emit-module-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/SpineModule.build/Objects-normal/arm64/SpineModule-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/SpineModule.build/Objects-normal/arm64/SpineModule-master-emit-module.dia",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/SpineModule.build/Objects-normal/arm64/SpineModule-master.swiftdeps"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/spine-ios/Sources/SpineModule/SpineModule.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/SpineModule.build/Objects-normal/arm64/SpineModule.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/SpineModule.build/Objects-normal/arm64/SpineModule.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/SpineModule.build/Objects-normal/arm64/SpineModule.dia",
+    "index-unit-output-path" : "/spine-ios.build/Debug-iphoneos/SpineModule.build/Objects-normal/arm64/SpineModule.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/SpineModule.build/Objects-normal/arm64/SpineModule.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/SpineModule.build/Objects-normal/arm64/SpineModule.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/SpineModule.build/Objects-normal/arm64/SpineModule.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/SpineModule.build/Objects-normal/arm64/SpineModule~partial.swiftmodule"
+  }
+}

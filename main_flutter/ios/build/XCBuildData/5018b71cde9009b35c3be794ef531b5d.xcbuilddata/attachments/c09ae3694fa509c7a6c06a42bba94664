@@ -1,0 +1,4 @@
+module iOS_NNSBComponent {
+header "iOS_NNSBComponent-Swift.h"
+export *
+}

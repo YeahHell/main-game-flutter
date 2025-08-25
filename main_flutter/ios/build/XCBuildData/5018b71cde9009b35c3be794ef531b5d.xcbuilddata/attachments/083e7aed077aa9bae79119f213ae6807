@@ -1,0 +1,148 @@
+{
+  "" : {
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/Spine-master.dia",
+    "emit-module-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/Spine-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/Spine-master-emit-module.dia",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/Spine-master.swiftdeps"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/DerivedSources/resource_bundle_accessor.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/resource_bundle_accessor.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/resource_bundle_accessor.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/resource_bundle_accessor.dia",
+    "index-unit-output-path" : "/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/resource_bundle_accessor.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/resource_bundle_accessor.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/resource_bundle_accessor.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/resource_bundle_accessor.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/resource_bundle_accessor~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/spine-ios/Sources/Spine/AnimationStateWrapper.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/AnimationStateWrapper.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/AnimationStateWrapper.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/AnimationStateWrapper.dia",
+    "index-unit-output-path" : "/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/AnimationStateWrapper.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/AnimationStateWrapper.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/AnimationStateWrapper.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/AnimationStateWrapper.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/AnimationStateWrapper~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/spine-ios/Sources/Spine/BoundsProvider.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/BoundsProvider.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/BoundsProvider.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/BoundsProvider.dia",
+    "index-unit-output-path" : "/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/BoundsProvider.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/BoundsProvider.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/BoundsProvider.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/BoundsProvider.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/BoundsProvider~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/spine-ios/Sources/Spine/Extensions/MTLClearColor+UIColor.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/MTLClearColor+UIColor.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/MTLClearColor+UIColor.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/MTLClearColor+UIColor.dia",
+    "index-unit-output-path" : "/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/MTLClearColor+UIColor.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/MTLClearColor+UIColor.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/MTLClearColor+UIColor.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/MTLClearColor+UIColor.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/MTLClearColor+UIColor~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/spine-ios/Sources/Spine/Extensions/RenderCommand+Vertices.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/RenderCommand+Vertices.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/RenderCommand+Vertices.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/RenderCommand+Vertices.dia",
+    "index-unit-output-path" : "/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/RenderCommand+Vertices.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/RenderCommand+Vertices.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/RenderCommand+Vertices.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/RenderCommand+Vertices.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/RenderCommand+Vertices~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/spine-ios/Sources/Spine/Extensions/SkeletonDrawableWrapper+CGImage.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SkeletonDrawableWrapper+CGImage.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SkeletonDrawableWrapper+CGImage.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SkeletonDrawableWrapper+CGImage.dia",
+    "index-unit-output-path" : "/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SkeletonDrawableWrapper+CGImage.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SkeletonDrawableWrapper+CGImage.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SkeletonDrawableWrapper+CGImage.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SkeletonDrawableWrapper+CGImage.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SkeletonDrawableWrapper+CGImage~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/spine-ios/Sources/Spine/Metal/SpineObjects.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SpineObjects.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SpineObjects.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SpineObjects.dia",
+    "index-unit-output-path" : "/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SpineObjects.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SpineObjects.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SpineObjects.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SpineObjects.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SpineObjects~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/spine-ios/Sources/Spine/Metal/SpineRenderer.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SpineRenderer.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SpineRenderer.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SpineRenderer.dia",
+    "index-unit-output-path" : "/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SpineRenderer.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SpineRenderer.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SpineRenderer.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SpineRenderer.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SpineRenderer~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/spine-ios/Sources/Spine/SkeletonDrawableWrapper.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SkeletonDrawableWrapper.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SkeletonDrawableWrapper.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SkeletonDrawableWrapper.dia",
+    "index-unit-output-path" : "/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SkeletonDrawableWrapper.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SkeletonDrawableWrapper.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SkeletonDrawableWrapper.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SkeletonDrawableWrapper.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SkeletonDrawableWrapper~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/spine-ios/Sources/Spine/Spine.Generated+Extensions.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/Spine.Generated+Extensions.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/Spine.Generated+Extensions.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/Spine.Generated+Extensions.dia",
+    "index-unit-output-path" : "/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/Spine.Generated+Extensions.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/Spine.Generated+Extensions.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/Spine.Generated+Extensions.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/Spine.Generated+Extensions.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/Spine.Generated+Extensions~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/spine-ios/Sources/Spine/Spine.Generated.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/Spine.Generated.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/Spine.Generated.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/Spine.Generated.dia",
+    "index-unit-output-path" : "/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/Spine.Generated.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/Spine.Generated.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/Spine.Generated.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/Spine.Generated.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/Spine.Generated~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/spine-ios/Sources/Spine/SpineController.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SpineController.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SpineController.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SpineController.dia",
+    "index-unit-output-path" : "/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SpineController.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SpineController.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SpineController.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SpineController.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SpineController~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/spine-ios/Sources/Spine/SpineUIView.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SpineUIView.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SpineUIView.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SpineUIView.dia",
+    "index-unit-output-path" : "/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SpineUIView.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SpineUIView.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SpineUIView.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SpineUIView.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SpineUIView~partial.swiftmodule"
+  },
+  "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/spine-ios/Sources/Spine/SpineView.swift" : {
+    "const-values" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SpineView.swiftconstvalues",
+    "dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SpineView.d",
+    "diagnostics" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SpineView.dia",
+    "index-unit-output-path" : "/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SpineView.o",
+    "llvm-bc" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SpineView.bc",
+    "object" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SpineView.o",
+    "swift-dependencies" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SpineView.swiftdeps",
+    "swiftmodule" : "/Users/pier/Library/Developer/Xcode/DerivedData/Runner-dseshufgafllczhheazzyklgixrf/SourcePackages/checkouts/spine-runtimes/build/spine-ios.build/Debug-iphoneos/Spine.build/Objects-normal/arm64/SpineView~partial.swiftmodule"
+  }
+}
