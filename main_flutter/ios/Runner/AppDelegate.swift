@@ -21,7 +21,13 @@ import iOS_NNSBComponent
 
     GeneratedPluginRegistrant.register(with: self)
 
+    // Ensure FlutterViewController is embedded in a UINavigationController so we can PUSH
     if let flutterVC = window?.rootViewController as? FlutterViewController {
+      let nav = UINavigationController(rootViewController: flutterVC)
+      nav.setNavigationBarHidden(true, animated: false)
+      window?.rootViewController = nav
+      window?.makeKeyAndVisible()
+
       let channel = FlutterMethodChannel(name: "ksport_minigame",
                                          binaryMessenger: flutterVC.binaryMessenger)
 
@@ -30,9 +36,10 @@ import iOS_NNSBComponent
         switch call.method {
         case "presentGame":
           let args = call.arguments as? [String: Any]
-          self.presentSBComponent(from: self.topMost(from: self.window?.rootViewController),
-                                  args: args,
-                                  onExit: {
+          self.pushSBComponent(from: self.topMost(from: self.window?.rootViewController),
+                               args: args,
+                               onExit: {
+            // Notify Flutter that the game was closed
             channel.invokeMethod("gameClosed", arguments: nil)
           })
           result(nil)
@@ -66,7 +73,7 @@ import iOS_NNSBComponent
   }
 }
 
-// MARK: - SB Presenter
+// MARK: - SB Presenter (Push)
 private extension AppDelegate {
 
   func topMost(from root: UIViewController?) -> UIViewController? {
@@ -77,10 +84,19 @@ private extension AppDelegate {
     return vc
   }
 
-  func presentSBComponent(from presenter: UIViewController?,
-                          args: [String: Any]?,
-                          onExit: @escaping () -> Void) {
-    guard let presenter = presenter, presenter.presentedViewController == nil else { return }
+  /// Push SBView instead of presenting it. No "X" button.
+  func pushSBComponent(from presenter: UIViewController?,
+                       args: [String: Any]?,
+                       onExit: @escaping () -> Void) {
+    // Find a navigation controller to push onto
+    let nav: UINavigationController? = (presenter as? UINavigationController)
+      ?? presenter?.navigationController
+      ?? (window?.rootViewController as? UINavigationController)
+
+    guard let nav = nav else {
+      assertionFailure("No UINavigationController available to push SBComponent")
+      return
+    }
 
     let tpToken = (args?["tpToken"] as? String) ?? ""
     let meta = (args?["meta"] as? [String: String]) ?? [:]
@@ -101,34 +117,19 @@ private extension AppDelegate {
       metaData: meta
     )
 
+    // No CloseWrapper, push SBView directly
     let root = SBView(configuration: config,
-                      onFinish: { onExit() },
-                      onRequestDeposit: {  })
+                      onFinish: {
+                        // 1) notify Flutter
+                        onExit()
+                        // 2) go back to Flutter by popping
+                        nav.popViewController(animated: true)
+                      },
+                      onRequestDeposit: { })
 
-    let wrapped = CloseWrapper(root: root, onExit: onExit)
-    let host = UIHostingController(rootView: wrapped)
-    host.modalPresentationStyle = .fullScreen
-    presenter.present(host, animated: true)
-  }
-}
-
-struct CloseWrapper<Content: View>: View {
-  @Environment(\.dismiss) private var dismiss
-  let root: Content
-  let onExit: () -> Void
-  var body: some View {
-      ZStack(alignment: .topLeading) {
-          root
-          Button {
-              onExit()
-              dismiss()
-          } label: {
-              Image(systemName: "xmark")
-                  .font(.system(size: 14, weight: .semibold))
-                  .padding(8)
-                  .foregroundColor(.gray)
-          }
-      }
+    let host = UIHostingController(rootView: root)
+    host.hidesBottomBarWhenPushed = true
+    nav.pushViewController(host, animated: true)
   }
 }
 
@@ -156,7 +157,15 @@ private extension AppDelegate {
   func setupIQKeyboardManager() {  }
 
   func handleDeepLink(_ url: URL) {
-    if let flutterVC = window?.rootViewController as? FlutterViewController {
+    // If root is now a UINavigationController, get its FlutterViewController
+    let rootVC: UIViewController? = {
+      if let nav = window?.rootViewController as? UINavigationController {
+        return nav.viewControllers.first
+      }
+      return window?.rootViewController
+    }()
+
+    if let flutterVC = rootVC as? FlutterViewController {
       let channel = FlutterMethodChannel(name: "deep_link", binaryMessenger: flutterVC.binaryMessenger)
       channel.invokeMethod("openURL", arguments: url.absoluteString)
     }

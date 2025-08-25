@@ -22,7 +22,7 @@ class _MainGameAppState extends State<MainGameApp> {
 
   Future<void> _openSB() async {
     await _ch.invokeMethod('presentGame', {
-      'tpToken': '4-f42adc1066763601e3dcd82a925cfa5c',
+      'tpToken': '4-46c4619603e7b48b4966d40e6c3aa455',
       'agentId': '4',
       'meta': {
         'uid': 'k_sports_ksport',

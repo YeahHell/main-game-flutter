@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 54;
+	objectVersion = 60;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -11,6 +11,7 @@
 		331C808B294A63AB00263BE5 /* RunnerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 331C807B294A618700263BE5 /* RunnerTests.swift */; };
 		3B3967161E833CAA004F5970 /* AppFrameworkInfo.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3B3967151E833CAA004F5970 /* AppFrameworkInfo.plist */; };
 		74858FAF1ED2DC5600515810 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74858FAE1ED2DC5600515810 /* AppDelegate.swift */; };
+		96ABAEF12E5C7EB9000F61FB /* iOS_NNSBComponent in Frameworks */ = {isa = PBXBuildFile; productRef = 96ABAEF02E5C7EB9000F61FB /* iOS_NNSBComponent */; };
 		96F0995C2E5B45D400CE6208 /* NNNetwork in Frameworks */ = {isa = PBXBuildFile; productRef = 96F0995B2E5B45D400CE6208 /* NNNetwork */; };
 		96F0995F2E5B461000CE6208 /* NNUICore in Frameworks */ = {isa = PBXBuildFile; productRef = 96F0995E2E5B461000CE6208 /* NNUICore */; };
 		96F099622E5B54EA00CE6208 /* iOS_NNSBComponent in Frameworks */ = {isa = PBXBuildFile; productRef = 96F099612E5B54EA00CE6208 /* iOS_NNSBComponent */; };
@@ -68,6 +69,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				96ABAEF12E5C7EB9000F61FB /* iOS_NNSBComponent in Frameworks */,
 				AF140A6D2E535F3000FB4BB1 /* iOS_NNSBComponent in Frameworks */,
 				AF7E322E2E53402D000FB6AF /* iOS_NNSBComponent in Frameworks */,
 				96F0995F2E5B461000CE6208 /* NNUICore in Frameworks */,
@@ -205,7 +207,7 @@
 			packageReferences = (
 				96F0995A2E5B45D400CE6208 /* XCRemoteSwiftPackageReference "iOS_NNNetwork" */,
 				96F0995D2E5B461000CE6208 /* XCRemoteSwiftPackageReference "iOS_NNUICore" */,
-				96F099602E5B54EA00CE6208 /* XCLocalSwiftPackageReference "../../../../iOS-Project/iOS_NNSBComponentWorkspace/iOS_NNSBComponent" */,
+				96ABAEEF2E5C7EB9000F61FB /* XCLocalSwiftPackageReference "../../../../iOS-Project/iOS_NNSBComponentWorkspace/iOS_NNSBComponent" */,
 			);
 			productRefGroup = 97C146EF1CF9000F007C117D /* Products */;
 			projectDirPath = "";
@@ -645,7 +647,7 @@
 /* End XCConfigurationList section */
 
 /* Begin XCLocalSwiftPackageReference section */
-		96F099602E5B54EA00CE6208 /* XCLocalSwiftPackageReference "../../../../iOS-Project/iOS_NNSBComponentWorkspace/iOS_NNSBComponent" */ = {
+		96ABAEEF2E5C7EB9000F61FB /* XCLocalSwiftPackageReference "../../../../iOS-Project/iOS_NNSBComponentWorkspace/iOS_NNSBComponent" */ = {
 			isa = XCLocalSwiftPackageReference;
 			relativePath = "../../../../iOS-Project/iOS_NNSBComponentWorkspace/iOS_NNSBComponent";
 		};
@@ -671,6 +673,10 @@
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
+		96ABAEF02E5C7EB9000F61FB /* iOS_NNSBComponent */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = iOS_NNSBComponent;
+		};
 		96F0995B2E5B45D400CE6208 /* NNNetwork */ = {
 			isa = XCSwiftPackageProductDependency;
 			package = 96F0995A2E5B45D400CE6208 /* XCRemoteSwiftPackageReference "iOS_NNNetwork" */;
