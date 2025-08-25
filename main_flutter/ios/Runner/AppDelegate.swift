@@ -103,7 +103,7 @@ private extension AppDelegate {
 
     let config = SBComponentConfiguration(
       tpToken: tpToken,
-      agentId: 25,
+      agentId: 4,
       userProfile: nil,
       signInAction: nil,
       signUpAction: nil,
