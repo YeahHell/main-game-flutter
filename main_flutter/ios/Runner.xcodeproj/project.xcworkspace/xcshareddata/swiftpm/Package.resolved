@@ -1,5 +1,5 @@
 {
-  "originHash" : "2ede88b51c9338d6db4573d36a5f5704cd3f479c1221670f28c12bb0fdddc599",
+  "originHash" : "e3f9d7549848079daf7e3bd36e9dbc150ec99dfef6e960fc6ce5757bd456bee0",
   "pins" : [
     {
       "identity" : "alamofire",
@@ -38,15 +38,6 @@
       }
     },
     {
-      "identity" : "keychain-swift",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/evgenyneu/keychain-swift.git",
-      "state" : {
-        "revision" : "5e1b02b6a9dac2a759a1d5dbc175c86bd192a608",
-        "version" : "24.0.0"
-      }
-    },
-    {
       "identity" : "kingfisher",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/onevcat/Kingfisher.git",
@@ -67,7 +58,7 @@
     {
       "identity" : "popupview",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/exyte/PopupView.git",
+      "location" : "https://github.com/exyte/PopupView",
       "state" : {
         "revision" : "6d875d432e80a65810375be102fb04ae748e9beb",
         "version" : "4.1.11"

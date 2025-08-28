@@ -18,7 +18,6 @@
 		97C146FC1CF9000F007C117D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97C146FA1CF9000F007C117D /* Main.storyboard */; };
 		97C146FE1CF9000F007C117D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 97C146FD1CF9000F007C117D /* Assets.xcassets */; };
 		97C147011CF9000F007C117D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97C146FF1CF9000F007C117D /* LaunchScreen.storyboard */; };
-		9C551C452E5DA6C20069ABF7 /* Mega645 in Frameworks */ = {isa = PBXBuildFile; productRef = 9C551C442E5DA6C20069ABF7 /* Mega645 */; };
 		AF140A6D2E535F3000FB4BB1 /* iOS_NNSBComponent in Frameworks */ = {isa = PBXBuildFile; productRef = AF140A6C2E535F3000FB4BB1 /* iOS_NNSBComponent */; };
 		AF35F5442E534509009B80C5 /* NNNetwork in Frameworks */ = {isa = PBXBuildFile; productRef = AF35F5432E534509009B80C5 /* NNNetwork */; };
 		AF7E322E2E53402D000FB6AF /* iOS_NNSBComponent in Frameworks */ = {isa = PBXBuildFile; productRef = AF7E322D2E53402D000FB6AF /* iOS_NNSBComponent */; };
@@ -70,7 +69,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9C551C452E5DA6C20069ABF7 /* Mega645 in Frameworks */,
 				96ABAEF12E5C7EB9000F61FB /* iOS_NNSBComponent in Frameworks */,
 				AF140A6D2E535F3000FB4BB1 /* iOS_NNSBComponent in Frameworks */,
 				AF7E322E2E53402D000FB6AF /* iOS_NNSBComponent in Frameworks */,
@@ -210,7 +208,6 @@
 				96F0995A2E5B45D400CE6208 /* XCRemoteSwiftPackageReference "iOS_NNNetwork" */,
 				96F0995D2E5B461000CE6208 /* XCRemoteSwiftPackageReference "iOS_NNUICore" */,
 				96ABAEEF2E5C7EB9000F61FB /* XCLocalSwiftPackageReference "../../../../iOS-Project/iOS_NNSBComponentWorkspace/iOS_NNSBComponent" */,
-				9C551C432E5DA6C20069ABF7 /* XCLocalSwiftPackageReference "../../../Mega645" */,
 			);
 			productRefGroup = 97C146EF1CF9000F007C117D /* Products */;
 			projectDirPath = "";
@@ -398,7 +395,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
-				SWIFT_VERSION = 6.0;
+				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Profile;
@@ -583,7 +580,7 @@
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 6.0;
+				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Debug;
@@ -609,7 +606,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
-				SWIFT_VERSION = 6.0;
+				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Release;
@@ -654,10 +651,6 @@
 			isa = XCLocalSwiftPackageReference;
 			relativePath = "../../../../iOS-Project/iOS_NNSBComponentWorkspace/iOS_NNSBComponent";
 		};
-		9C551C432E5DA6C20069ABF7 /* XCLocalSwiftPackageReference "../../../Mega645" */ = {
-			isa = XCLocalSwiftPackageReference;
-			relativePath = ../../../Mega645;
-		};
 /* End XCLocalSwiftPackageReference section */
 
 /* Begin XCRemoteSwiftPackageReference section */
@@ -697,10 +690,6 @@
 		96F099612E5B54EA00CE6208 /* iOS_NNSBComponent */ = {
 			isa = XCSwiftPackageProductDependency;
 			productName = iOS_NNSBComponent;
-		};
-		9C551C442E5DA6C20069ABF7 /* Mega645 */ = {
-			isa = XCSwiftPackageProductDependency;
-			productName = Mega645;
 		};
 		AF140A6C2E535F3000FB4BB1 /* iOS_NNSBComponent */ = {
 			isa = XCSwiftPackageProductDependency;
