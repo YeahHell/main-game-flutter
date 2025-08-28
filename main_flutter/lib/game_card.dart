@@ -9,7 +9,6 @@ class GameCard extends StatelessWidget {
   final String buttonImageURL;
   final VoidCallback onGameTap;
 
-
   const GameCard({
     Key? key,
     required this.onGameTap,
@@ -50,7 +49,7 @@ class GameCard extends StatelessWidget {
             SizedBox(height: 10),
             ImageButton(
                 imageUrl: buttonImageURL,
-                onTap: () => openGame('mega645', 0))
+                onTap: onGameTap)
           ],
         ),
       );

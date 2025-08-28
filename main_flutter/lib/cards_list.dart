@@ -20,11 +20,11 @@ class CardsList extends StatelessWidget {
         SizedBox(height: 30),
 
         GameCard(
-          title: 'Welcome to Quay số 2\n(will open the right game when its ready)',
+          title: 'K-Sports',
           icon: Icons.sports_esports,
-          onGameTap: () => openGame('mega645', 0),
+          onGameTap: () => openSB(),
           buttonImageURL:
-              'https://v4.five88.vin/2024/10/20/quay_so_2_1729426088.webp',
+              'https://img.fabet.to/bmp/826a0e5844bec3286d8b2f9bf7cf65a6/game/vi/ksports_landscape.avif?LCXPt?a=6',
         ),
         SizedBox(height: 30),
 
