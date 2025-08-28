@@ -3,196 +3,163 @@ import Flutter
 import UIKit
 import SwiftUI
 import AVKit
-import iOS_NNSBComponent
+import Mega645
 
 @main
 @objc class AppDelegate: FlutterAppDelegate {
-
-  // MARK: - App lifecycle
-  override func application(
-    _ application: UIApplication,
-    didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?
-  ) -> Bool {
-
-    configureAppearance()
-    configureSBComponent()
-    configureAudioSession()
-    setupIQKeyboardManager()
-
-    GeneratedPluginRegistrant.register(with: self)
-
-    // Embed FlutterViewController inside UINavigationController to enable PUSH
-    if let flutterVC = window?.rootViewController as? FlutterViewController {
-      let nav = UINavigationController(rootViewController: flutterVC)
-      nav.setNavigationBarHidden(true, animated: false)
-      window?.rootViewController = nav
-      window?.makeKeyAndVisible()
-
-      let channel = FlutterMethodChannel(
-        name: "ksport_minigame",
-        binaryMessenger: flutterVC.binaryMessenger
-      )
-
-      channel.setMethodCallHandler { [weak self] call, result in
-        guard let self = self else { return }
-        switch call.method {
-        case "presentGame":
-          let args = call.arguments as? [String: Any]
-          self.pushSBComponent(
-            from: self.topMost(from: self.window?.rootViewController),
-            args: args,
-            channel: channel,
-            onExit: {
-              // Notify Flutter that the game closed
-              channel.invokeMethod("gameClosed", arguments: nil)
+    
+    private var isGameActive = false
+    
+    // MARK: - App lifecycle
+    override func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
+        
+        configureAppearance()
+        configureAudioSession()
+        setupIQKeyboardManager()
+        
+        GeneratedPluginRegistrant.register(with: self)
+        
+        // Embed FlutterViewController inside UINavigationController to enable PUSH
+        if let flutterVC = window?.rootViewController as? FlutterViewController {
+            
+            let nav = UINavigationController(rootViewController: flutterVC)
+            nav.setNavigationBarHidden(true, animated: false)
+            window?.rootViewController = nav
+            window?.makeKeyAndVisible()
+            
+            let channel = FlutterMethodChannel(
+                name: "games_engine",
+                binaryMessenger: flutterVC.binaryMessenger
+            )
+            
+            channel.setMethodCallHandler { [weak self] (call, result) in
+                guard let self = self else { return }
+                
+                switch call.method {
+                case "mega645":
+                    if let args = call.arguments as? [String: Any] {
+                        self.isGameActive = true
+                        forcePortraitOrientation()
+                        self.presentMegaGame(nav: nav, args: args, channel: channel)
+                    }
+                    result(nil)
+                    
+                default:
+                    self.isGameActive = false
+                    result(nil)
+                }
             }
-          )
-          result(nil)
-
-        default:
-          result(FlutterMethodNotImplemented)
         }
-      }
+        
+        return super.application(application, didFinishLaunchingWithOptions: launchOptions)
     }
-
-    return super.application(application, didFinishLaunchingWithOptions: launchOptions)
-  }
-
-  // MARK: - Deeplinks
-  override func application(_ app: UIApplication,
-                            open url: URL,
-                            options: [UIApplication.OpenURLOptionsKey : Any] = [:]) -> Bool {
-    handleDeepLink(url)
-    return true
-  }
-
-  override func application(_ application: UIApplication,
-                            continue userActivity: NSUserActivity,
-                            restorationHandler: @escaping ([UIUserActivityRestoring]?) -> Void) -> Bool {
-    if userActivity.activityType == NSUserActivityTypeBrowsingWeb,
-       let url = userActivity.webpageURL {
-      handleDeepLink(url)
-      return true
+    
+    override func application(_ application: UIApplication, supportedInterfaceOrientationsFor window: UIWindow?) -> UIInterfaceOrientationMask {
+        if isGameActive {
+            return .portrait
+        }
+        return .all
     }
-    return false
-  }
+    
+    private func forcePortraitOrientation() {
+        // Force the device orientation
+        let value = UIInterfaceOrientation.portrait.rawValue
+        UIDevice.current.setValue(value, forKey: "orientation")
+        
+        guard let windowScene = UIApplication.shared.connectedScenes.first as? UIWindowScene else { return }
+        let geometryPreferences = UIWindowScene.GeometryPreferences.iOS(interfaceOrientations: .portrait)
+        windowScene.requestGeometryUpdate(geometryPreferences) { error in
+            print("Orientation change error: \(error)")
+        }
+    }
+    
+    private func presentMegaGame(nav: UINavigationController, args: [String: Any], channel: FlutterMethodChannel) {
+        let tpToken = args["tpToken"] as? String ?? ""
+        let balance = args["balance"] as? Double ?? 0
+        
+        // Create Mega645 view
+        let gameView = Mega645(token: tpToken, balance: balance) {
+            print("onRequestDeposit called")
+            
+            // 1) Pop back to Flutter first
+            nav.popViewController(animated: true)
+            // 2) Wait a bit for Flutter to be ready, then call deposit
+            DispatchQueue.main.asyncAfter(deadline: .now() + 0.5) {
+                print("Calling openDeposit method")
+                channel.invokeMethod("openDeposit", arguments: [
+                    "gameId" : "mega645"
+                ])
+            }
+        }.ignoresSafeArea(edges: .top)
+        
+        let host = UIHostingController(rootView: gameView)
+        host.hidesBottomBarWhenPushed = true
+        nav.pushViewController(host, animated: true)
+    }
+    
+    // MARK: - Deeplinks
+    override func application(_ app: UIApplication, open url: URL, options: [UIApplication.OpenURLOptionsKey : Any] = [:]) -> Bool {
+        handleDeepLink(url)
+        return true
+    }
+    
+    override func application(_ application: UIApplication, continue userActivity: NSUserActivity, restorationHandler: @escaping ([UIUserActivityRestoring]?) -> Void) -> Bool {
+        if userActivity.activityType == NSUserActivityTypeBrowsingWeb,
+           let url = userActivity.webpageURL {
+            handleDeepLink(url)
+            return true
+        }
+        return false
+    }
 }
 
 // MARK: - SB Presenter (Push)
 private extension AppDelegate {
-
-  func topMost(from root: UIViewController?) -> UIViewController? {
-    var vc = root
-    while let presented = vc?.presentedViewController { vc = presented }
-    if let nav = vc as? UINavigationController { return nav.visibleViewController }
-    if let tab = vc as? UITabBarController { return tab.selectedViewController }
-    return vc
-  }
-
-  /// Push SBView instead of presenting it. No "X" button.
-  func pushSBComponent(from presenter: UIViewController?,
-                       args: [String: Any]?,
-                       channel: FlutterMethodChannel,
-                       onExit: @escaping () -> Void) {
-    // Find a navigation controller to push onto
-    let nav: UINavigationController? = (presenter as? UINavigationController)
-      ?? presenter?.navigationController
-      ?? (window?.rootViewController as? UINavigationController)
-
-    guard let nav = nav else {
-      assertionFailure("No UINavigationController available to push SBComponent")
-      return
+    
+    func topMost(from root: UIViewController?) -> UIViewController? {
+        var vc = root
+        while let presented = vc?.presentedViewController { vc = presented }
+        if let nav = vc as? UINavigationController { return nav.visibleViewController }
+        if let tab = vc as? UITabBarController { return tab.selectedViewController }
+        return vc
     }
-
-    let tpToken = (args?["tpToken"] as? String) ?? ""
-    let meta = (args?["meta"] as? [String: String]) ?? [:]
-
-    let config = SBComponentConfiguration(
-      tpToken: tpToken,
-      agentId: 4, // giữ nguyên agentId của bạn
-      userProfile: nil,
-      signInAction: nil,
-      signUpAction: nil,
-      expiredAction: nil,
-      onChangeRotation: { isLandscape in
-        UIDevice.current.setValue(
-          isLandscape ? UIInterfaceOrientation.landscapeRight.rawValue
-                      : UIInterfaceOrientation.portrait.rawValue,
-          forKey: "orientation"
-        )
-      },
-      showToastAction: { _ in },
-      metaData: meta
-    )
-
-    // Push SBView directly — no CloseWrapper, no X button
-    let root = SBView(
-      configuration: config,
-      onFinish: {
-        print("SB onFinish called") // Debug log
-        // 1) notify Flutter that game closed
-        onExit()
-        // 2) go back to Flutter by popping
-        nav.popViewController(animated: true)
-      },
-      onRequestDeposit: {
-        print("SB onRequestDeposit called") // Debug log
-        // 1) Pop back to Flutter first
-        nav.popViewController(animated: true)
-
-        // 2) Wait a bit for Flutter to be ready, then call deposit
-        DispatchQueue.main.asyncAfter(deadline: .now() + 0.5) {
-          print("Calling openDeposit method") // Debug log
-          channel.invokeMethod("openDeposit", arguments: nil)
-        }
-      }
-    )
-
-    let host = UIHostingController(rootView: root)
-    host.hidesBottomBarWhenPushed = true
-    nav.pushViewController(host, animated: true)
-  }
 }
 
 // MARK: - Configs
 private extension AppDelegate {
-  func configureAppearance() {
-    let nav = UINavigationBarAppearance()
-    nav.configureWithTransparentBackground()
-    nav.backgroundColor = .clear
-    nav.shadowColor = .clear
-    UINavigationBar.appearance().standardAppearance = nav
-    UINavigationBar.appearance().scrollEdgeAppearance = nav
-    UINavigationBar.appearance().compactAppearance = nav
-    UIBarButtonItem.appearance().tintColor = .clear
-  }
-
-  func configureSBComponent() {
-    SBComponentInstallConfig.configuration()
-  }
-
-  func configureAudioSession() {
-    try? AVAudioSession.sharedInstance()
-      .setCategory(.playback, options: [.mixWithOthers])
-  }
-
-  func setupIQKeyboardManager() { }
-
-  func handleDeepLink(_ url: URL) {
-    // If root is a UINavigationController, get its FlutterViewController
-    let rootVC: UIViewController? = {
-      if let nav = window?.rootViewController as? UINavigationController {
-        return nav.viewControllers.first
-      }
-      return window?.rootViewController
-    }()
-
-    if let flutterVC = rootVC as? FlutterViewController {
-      let channel = FlutterMethodChannel(
-        name: "deep_link",
-        binaryMessenger: flutterVC.binaryMessenger
-      )
-      channel.invokeMethod("openURL", arguments: url.absoluteString)
+    func configureAppearance() {
+        let nav = UINavigationBarAppearance()
+        nav.configureWithTransparentBackground()
+        nav.backgroundColor = .clear
+        nav.shadowColor = .clear
+        UINavigationBar.appearance().standardAppearance = nav
+        UINavigationBar.appearance().scrollEdgeAppearance = nav
+        UINavigationBar.appearance().compactAppearance = nav
+        UIBarButtonItem.appearance().tintColor = .clear
     }
-  }
+    
+    func configureAudioSession() {
+        try? AVAudioSession.sharedInstance()
+            .setCategory(.playback, options: [.mixWithOthers])
+    }
+    
+    func setupIQKeyboardManager() { }
+    
+    func handleDeepLink(_ url: URL) {
+        // If root is a UINavigationController, get its FlutterViewController
+        let rootVC: UIViewController? = {
+            if let nav = window?.rootViewController as? UINavigationController {
+                return nav.viewControllers.first
+            }
+            return window?.rootViewController
+        }()
+        
+        if let flutterVC = rootVC as? FlutterViewController {
+            let channel = FlutterMethodChannel(
+                name: "deep_link",
+                binaryMessenger: flutterVC.binaryMessenger
+            )
+            channel.invokeMethod("openURL", arguments: url.absoluteString)
+        }
+    }
 }
