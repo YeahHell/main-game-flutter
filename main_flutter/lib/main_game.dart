@@ -17,7 +17,7 @@ class _MainGameAppState extends State<MainGameApp> {
     ch.setMethodCallHandler((call) {
       return MethodChannelHelper.handleMethodCall(
         navigatorKey.currentContext,
-        call,
+        call
       );
     });
   }

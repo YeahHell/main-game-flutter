@@ -24,7 +24,7 @@ class MethodChannelHelper {
         WidgetsBinding.instance.addPostFrameCallback((_) {
           final ctx = context ?? navigatorKey.currentContext;
           if (ctx != null) {
-            showDepositDialog(ctx);
+            showDepositDialog(call.arguments['gameID'], ctx);
           } else {
             print('Navigator context not available');
           }

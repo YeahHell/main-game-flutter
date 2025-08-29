@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:main_flutter/utils/image_button.dart';
 
-import 'game_processor.dart';
-
 class GameCard extends StatelessWidget {
   final String title;
   final IconData icon;

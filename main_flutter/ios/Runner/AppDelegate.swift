@@ -104,7 +104,7 @@ import iOS_NNSBComponent
             DispatchQueue.main.asyncAfter(deadline: .now() + 0.5) {
                 print("Calling openDeposit method")
                 channel.invokeMethod("openDeposit", arguments: [
-                    "gameId" : "mega645"
+                    "gameID" : "mega645"
                 ])
             }
         }.ignoresSafeArea(edges: .top)

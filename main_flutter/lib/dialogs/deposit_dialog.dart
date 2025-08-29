@@ -3,7 +3,7 @@ import '../utils/navigation_service.dart';
 import '../deposit_option.dart';
 
 
-void showDepositDialog([BuildContext? dialogContext]) {
+void showDepositDialog(String? gameID, [BuildContext? dialogContext]) {
   print('_showDepositDialog called'); // Debug log
 
   final BuildContext? targetContext = dialogContext ?? navigatorKey.currentContext;
@@ -39,7 +39,7 @@ void showDepositDialog([BuildContext? dialogContext]) {
                 style: TextStyle(fontSize: 16, fontWeight: FontWeight.w500),
               ),
               SizedBox(height: 16),
-              buildDepositOptions(context),
+              buildDepositOptions(context, gameID),
             ],
           ),
         ),

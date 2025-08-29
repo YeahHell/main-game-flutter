@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'utils/navigation_service.dart';
 import 'dialogs/dialogs.dart';
 
-Widget buildDepositOptions(BuildContext dialogContext) {
+Widget buildDepositOptions(BuildContext dialogContext, String? gameID) {
   final amounts = [50000, 100000, 200000, 500000, 1000000, 2000000];
 
   return Column(
@@ -21,7 +21,7 @@ Widget buildDepositOptions(BuildContext dialogContext) {
           ),
           onPressed: () {
             Navigator.of(dialogContext).pop();
-            _processDeposit(amount);
+            _processDeposit(amount, gameID);
           },
           child: Text(
             formatCurrency(amount),
@@ -37,7 +37,7 @@ String formatCurrency(int amount) {
   return '${amount.toString().replaceAllMapped(RegExp(r'(\d{1,3})(?=(\d{3})+(?!\d))'), (Match m) => '${m[1]},')} VND';
 }
 
-Future<void> _processDeposit(int amount) async {
+Future<void> _processDeposit(int amount, String? gameID) async {
   final context = navigatorKey.currentContext;
   if (context == null) return;
 
@@ -52,7 +52,8 @@ Future<void> _processDeposit(int amount) async {
     Navigator.of(context).pop();
 
     // Show success dialog
-    showSuccessDialog(context, amount);
+    // store balance in shared preferences
+    showSuccessDialog(context, amount, gameID);
   } catch (e) {
     // Close loading dialog
     Navigator.of(context).pop();

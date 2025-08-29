@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
+import '../data/local_data_manager.dart';
 import '../deposit_option.dart';
 import '../game_processor.dart';
-
 
 void showLoadingDialog(BuildContext context) {
   showDialog(
@@ -9,9 +9,7 @@ void showLoadingDialog(BuildContext context) {
     barrierDismissible: false,
     builder: (BuildContext context) {
       return AlertDialog(
-        shape: RoundedRectangleBorder(
-          borderRadius: BorderRadius.circular(16),
-        ),
+        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
         content: Column(
           mainAxisSize: MainAxisSize.min,
           children: [
@@ -25,14 +23,12 @@ void showLoadingDialog(BuildContext context) {
   );
 }
 
-void showSuccessDialog(BuildContext context, int amount) {
+void showSuccessDialog(BuildContext context, int amount, String? gameID) {
   showDialog(
     context: context,
     builder: (BuildContext context) {
       return AlertDialog(
-        shape: RoundedRectangleBorder(
-          borderRadius: BorderRadius.circular(16),
-        ),
+        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
         title: Row(
           children: [
             Icon(Icons.check_circle, color: Colors.green, size: 28),
@@ -52,10 +48,20 @@ void showSuccessDialog(BuildContext context, int amount) {
                 borderRadius: BorderRadius.circular(8),
               ),
             ),
-            onPressed: () {
+            onPressed: () async {
               Navigator.of(context).pop();
               // Có thể mở lại game sau khi nạp tiền thành công
-              openGame('mega645', amount);
+              // store in the shared preferences and pass amount
+              await SharedPrefsHelper.instance.increment(
+                'balance',
+                by: amount,
+                defaultValue: 0,
+              );
+              if (gameID == null) {
+                print('Game ID not found');
+              } else {
+                openGame(gameID);
+              }
             },
             child: Text('Tiếp Tục Chơi', style: TextStyle(color: Colors.white)),
           ),
@@ -74,9 +80,7 @@ void showErrorDialog(BuildContext context, String message) {
     context: context,
     builder: (BuildContext context) {
       return AlertDialog(
-        shape: RoundedRectangleBorder(
-          borderRadius: BorderRadius.circular(16),
-        ),
+        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
         title: Row(
           children: [
             Icon(Icons.error, color: Colors.red, size: 28),
