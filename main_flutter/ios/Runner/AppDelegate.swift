@@ -4,6 +4,7 @@ import UIKit
 import SwiftUI
 import AVKit
 import Mega645
+import Power655
 import iOS_NNSBComponent
 
 @main
@@ -39,24 +40,24 @@ import iOS_NNSBComponent
                 guard let self = self else { return }
                 
                 switch call.method {
-                case "mega645":
+                case "mega645", "power655":
                     if let args = call.arguments as? [String: Any] {
                         self.isGameActive = true
                         forcePortraitOrientation()
                         self.presentMegaGame(nav: nav, args: args, channel: channel)
                     }
                     result(nil)
-
+                    
                 case "ksport_minigame":
                     let args = call.arguments as? [String: Any]
                     self.pushSBComponent(
-                      from: self.topMost(from: self.window?.rootViewController),
-                      args: args,
-                      channel: channel,
-                      onExit: {
-                        // Notify Flutter that the game closed
-                        channel.invokeMethod("gameClosed", arguments: nil)
-                      }
+                        from: self.topMost(from: self.window?.rootViewController),
+                        args: args,
+                        channel: channel,
+                        onExit: {
+                            // Notify Flutter that the game closed
+                            channel.invokeMethod("gameClosed", arguments: nil)
+                        }
                     )
                     result(nil)
                     
@@ -91,29 +92,46 @@ import iOS_NNSBComponent
     }
     
     private func presentMegaGame(nav: UINavigationController, args: [String: Any], channel: FlutterMethodChannel) {
+        print("present Mega Game arguments: \(args)")
+        let id = args["id"] as? String ?? ""
         let tpToken = args["tpToken"] as? String ?? ""
         let balance = args["balance"] as? Double ?? 0
         
         // Create Mega645 view
-        let gameView = Mega645(token: tpToken, balance: balance) {
-            print("onRequestDeposit called")
-            
-            // 1) Pop back to Flutter first
-            nav.popViewController(animated: true)
-            // 2) Wait a bit for Flutter to be ready, then call deposit
-            DispatchQueue.main.asyncAfter(deadline: .now() + 0.5) {
-                print("Calling openDeposit method")
-                channel.invokeMethod("openDeposit", arguments: [
-                    "gameID" : "mega645"
-                ])
-            }
-        }.ignoresSafeArea(edges: .top)
+        var gameView: AnyView?
+        if id == "mega645" {
+            gameView = AnyView(
+                Mega645(token: tpToken, balance: balance) {
+                    self.requestDeposit(nav: nav, channel: channel, gameID: "mega645")
+                }.ignoresSafeArea(edges: .top)
+            )
+        } else if id == "power655" {
+            gameView = AnyView(
+                Power655(token: tpToken, balance: balance) {
+                    self.requestDeposit(nav: nav, channel: channel, gameID: "power655")
+                }.ignoresSafeArea(edges: .top)
+            )
+        }
         
-        let host = UIHostingController(rootView: gameView)
+        let host = UIHostingController(rootView: AnyView(gameView))
         host.hidesBottomBarWhenPushed = true
         nav.pushViewController(host, animated: true)
     }
     
+    
+    private func requestDeposit(nav: UINavigationController, channel: FlutterMethodChannel, gameID: String) {
+        print("onRequestDeposit called")
+        
+        // 1) Pop back to Flutter first
+        nav.popViewController(animated: true)
+        // 2) Wait a bit for Flutter to be ready, then call deposit
+        DispatchQueue.main.asyncAfter(deadline: .now() + 0.5) {
+            print("Calling openDeposit method")
+            channel.invokeMethod("openDeposit", arguments: [
+                "gameID" : gameID
+            ])
+        }
+    }
     // MARK: - Deeplinks
     override func application(_ app: UIApplication, open url: URL, options: [UIApplication.OpenURLOptionsKey : Any] = [:]) -> Bool {
         handleDeepLink(url)
@@ -146,63 +164,63 @@ private extension AppDelegate {
                          args: [String: Any]?,
                          channel: FlutterMethodChannel,
                          onExit: @escaping () -> Void) {
-      // Find a navigation controller to push onto
-      let nav: UINavigationController? = (presenter as? UINavigationController)
+        // Find a navigation controller to push onto
+        let nav: UINavigationController? = (presenter as? UINavigationController)
         ?? presenter?.navigationController
         ?? (window?.rootViewController as? UINavigationController)
-
-      guard let nav = nav else {
-        assertionFailure("No UINavigationController available to push SBComponent")
-        return
-      }
-
-      let tpToken = (args?["tpToken"] as? String) ?? ""
-      let meta = (args?["meta"] as? [String: String]) ?? [:]
-
-      let config = SBComponentConfiguration(
-        tpToken: tpToken,
-        agentId: 4, // giữ nguyên agentId của bạn
-        userProfile: nil,
-        signInAction: nil,
-        signUpAction: nil,
-        expiredAction: nil,
-        onChangeRotation: { isLandscape in
-          UIDevice.current.setValue(
-            isLandscape ? UIInterfaceOrientation.landscapeRight.rawValue
-                        : UIInterfaceOrientation.portrait.rawValue,
-            forKey: "orientation"
-          )
-        },
-        showToastAction: { _ in },
-        metaData: meta
-      )
-
-      // Push SBView directly — no CloseWrapper, no X button
-      let root = SBView(
-        configuration: config,
-        onFinish: {
-          print("SB onFinish called") // Debug log
-          // 1) notify Flutter that game closed
-          onExit()
-          // 2) go back to Flutter by popping
-          nav.popViewController(animated: true)
-        },
-        onRequestDeposit: {
-          print("SB onRequestDeposit called") // Debug log
-          // 1) Pop back to Flutter first
-          nav.popViewController(animated: true)
-
-          // 2) Wait a bit for Flutter to be ready, then call deposit
-          DispatchQueue.main.asyncAfter(deadline: .now() + 0.5) {
-            print("Calling openDeposit method") // Debug log
-            channel.invokeMethod("openDeposit", arguments: nil)
-          }
+        
+        guard let nav = nav else {
+            assertionFailure("No UINavigationController available to push SBComponent")
+            return
         }
-      )
-
-      let host = UIHostingController(rootView: root)
-      host.hidesBottomBarWhenPushed = true
-      nav.pushViewController(host, animated: true)
+        
+        let tpToken = (args?["tpToken"] as? String) ?? ""
+        let meta = (args?["meta"] as? [String: String]) ?? [:]
+        
+        let config = SBComponentConfiguration(
+            tpToken: tpToken,
+            agentId: 4, // giữ nguyên agentId của bạn
+            userProfile: nil,
+            signInAction: nil,
+            signUpAction: nil,
+            expiredAction: nil,
+            onChangeRotation: { isLandscape in
+                UIDevice.current.setValue(
+                    isLandscape ? UIInterfaceOrientation.landscapeRight.rawValue
+                    : UIInterfaceOrientation.portrait.rawValue,
+                    forKey: "orientation"
+                )
+            },
+            showToastAction: { _ in },
+            metaData: meta
+        )
+        
+        // Push SBView directly — no CloseWrapper, no X button
+        let root = SBView(
+            configuration: config,
+            onFinish: {
+                print("SB onFinish called") // Debug log
+                // 1) notify Flutter that game closed
+                onExit()
+                // 2) go back to Flutter by popping
+                nav.popViewController(animated: true)
+            },
+            onRequestDeposit: {
+                print("SB onRequestDeposit called") // Debug log
+                // 1) Pop back to Flutter first
+                nav.popViewController(animated: true)
+                
+                // 2) Wait a bit for Flutter to be ready, then call deposit
+                DispatchQueue.main.asyncAfter(deadline: .now() + 0.5) {
+                    print("Calling openDeposit method") // Debug log
+                    channel.invokeMethod("openDeposit", arguments: nil)
+                }
+            }
+        )
+        
+        let host = UIHostingController(rootView: root)
+        host.hidesBottomBarWhenPushed = true
+        nav.pushViewController(host, animated: true)
     }
 }
 

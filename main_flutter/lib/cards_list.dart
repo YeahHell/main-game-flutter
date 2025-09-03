@@ -11,7 +11,6 @@ class CardsList extends StatefulWidget {
 }
 
 class _CardsListState extends State<CardsList> {
-
   @override
   Widget build(BuildContext context) {
     return ListView(
@@ -22,6 +21,15 @@ class _CardsListState extends State<CardsList> {
           onGameTap: () => openGame('mega645'),
           buttonImageURL:
               'https://img.fabet.to/bmp/826a0e5844bec3286d8b2f9bf7cf65a6/game/vi/techplay_mega_645.avif?hdsff?a=6',
+        ),
+        SizedBox(height: 30),
+
+        GameCard(
+          onGameTap: () => openGame('power655'),
+          title: 'Welcome to Power 6/55',
+          icon: Icons.sports_esports,
+          buttonImageURL:
+          'https://img.fabet.to/bmp/826a0e5844bec3286d8b2f9bf7cf65a6/game/vi/techplay_power_655.avif?hdsff?a=7',
         ),
         SizedBox(height: 30),
 

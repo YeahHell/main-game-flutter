@@ -1,5 +1,5 @@
 {
-  "originHash" : "2d26e76f04a554ee6e52ac404cefad7104fa82fc598a12565f55f8873e432a5e",
+  "originHash" : "f0b02c87c78268027edfccefb833bd1f2f69e8dde609d76e0ccd4b7e3d3e16d2",
   "pins" : [
     {
       "identity" : "alamofire",
@@ -17,6 +17,15 @@
       "state" : {
         "revision" : "5928286acce13def418ec36d05a001a9641086f2",
         "version" : "1.0.3"
+      }
+    },
+    {
+      "identity" : "ios-component-mega655",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:nanagroup/ios-component-mega655.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "b2d6a9a5dcf78e2043fc83a58b1e9fa660116d6c"
       }
     },
     {

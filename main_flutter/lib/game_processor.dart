@@ -15,7 +15,7 @@ Future<void> openGame(String id) async {
       defaultValue: '4-46c4619603e7b48b4966d40e6c3aa455',
     );
 
-    await ch.invokeMethod(id, {'tpToken': tpToken, 'balance': balance});
+    await ch.invokeMethod(id, {'tpToken': tpToken, 'balance': balance, 'id' : id});
   } catch (e) {
     print('Error opening game: $e');
     final context = navigatorKey.currentContext;

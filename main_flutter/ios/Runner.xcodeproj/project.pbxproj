@@ -18,6 +18,7 @@
 		97C146FC1CF9000F007C117D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97C146FA1CF9000F007C117D /* Main.storyboard */; };
 		97C146FE1CF9000F007C117D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 97C146FD1CF9000F007C117D /* Assets.xcassets */; };
 		97C147011CF9000F007C117D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97C146FF1CF9000F007C117D /* LaunchScreen.storyboard */; };
+		9C35CB752E685FD100F0F6F2 /* Power655 in Frameworks */ = {isa = PBXBuildFile; productRef = 9C35CB742E685FD100F0F6F2 /* Power655 */; };
 		9C42865B2E6856C0007BD734 /* Mega645 in Frameworks */ = {isa = PBXBuildFile; productRef = 9C42865A2E6856C0007BD734 /* Mega645 */; };
 		9C551C452E5DA6C20069ABF7 /* Mega645 in Frameworks */ = {isa = PBXBuildFile; productRef = 9C551C442E5DA6C20069ABF7 /* Mega645 */; };
 		AF140A6D2E535F3000FB4BB1 /* iOS_NNSBComponent in Frameworks */ = {isa = PBXBuildFile; productRef = AF140A6C2E535F3000FB4BB1 /* iOS_NNSBComponent */; };
@@ -88,6 +89,7 @@
 				96F0995F2E5B461000CE6208 /* NNUICore in Frameworks */,
 				96F099622E5B54EA00CE6208 /* iOS_NNSBComponent in Frameworks */,
 				AF35F5442E534509009B80C5 /* NNNetwork in Frameworks */,
+				9C35CB752E685FD100F0F6F2 /* Power655 in Frameworks */,
 				96F0995C2E5B45D400CE6208 /* NNNetwork in Frameworks */,
 				9C42865B2E6856C0007BD734 /* Mega645 in Frameworks */,
 				E7C54AB3066E4867AE582F51 /* Pods_Runner.framework in Frameworks */,
@@ -260,6 +262,7 @@
 				96F0995D2E5B461000CE6208 /* XCRemoteSwiftPackageReference "iOS_NNUICore" */,
 				96ABAEEF2E5C7EB9000F61FB /* XCLocalSwiftPackageReference "iOS_NNSBComponent" */,
 				9C4286592E6856C0007BD734 /* XCRemoteSwiftPackageReference "ios-game-mega645-techplay" */,
+				9C35CB732E685FD100F0F6F2 /* XCRemoteSwiftPackageReference "ios-component-mega655" */,
 			);
 			productRefGroup = 97C146EF1CF9000F007C117D /* Products */;
 			projectDirPath = "";
@@ -786,6 +789,14 @@
 				minimumVersion = 0.2.5;
 			};
 		};
+		9C35CB732E685FD100F0F6F2 /* XCRemoteSwiftPackageReference "ios-component-mega655" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "git@github.com:nanagroup/ios-component-mega655.git";
+			requirement = {
+				branch = main;
+				kind = branch;
+			};
+		};
 		9C4286592E6856C0007BD734 /* XCRemoteSwiftPackageReference "ios-game-mega645-techplay" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "git@github.com:nanagroup/ios-game-mega645-techplay.git";
@@ -814,6 +825,11 @@
 		96F099612E5B54EA00CE6208 /* iOS_NNSBComponent */ = {
 			isa = XCSwiftPackageProductDependency;
 			productName = iOS_NNSBComponent;
+		};
+		9C35CB742E685FD100F0F6F2 /* Power655 */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 9C35CB732E685FD100F0F6F2 /* XCRemoteSwiftPackageReference "ios-component-mega655" */;
+			productName = Power655;
 		};
 		9C42865A2E6856C0007BD734 /* Mega645 */ = {
 			isa = XCSwiftPackageProductDependency;
