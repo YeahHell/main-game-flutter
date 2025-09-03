@@ -20,7 +20,7 @@ class _CardsListState extends State<CardsList> {
           (game) => Column(
             children: [
               GameCard(
-                onGameTap: () => openGame(game.id),
+                onGameTap: () => game.type == GameType.sb ? openSB() : openGame(game.id),
                 title: game.name,
                 icon: game.icon,
                 buttonImageURL: game.imageUrl,
@@ -29,15 +29,6 @@ class _CardsListState extends State<CardsList> {
             ],
           ),
         ),
-
-        GameCard(
-          title: 'K-Sports',
-          icon: Icons.sports_esports,
-          onGameTap: () => openSB(),
-          buttonImageURL:
-              'https://img.fabet.to/bmp/826a0e5844bec3286d8b2f9bf7cf65a6/game/vi/ksports_landscape.avif?LCXPt?a=6',
-        ),
-        SizedBox(height: 30),
 
         // Test button for deposit (có thể xóa trong production)
         TextButton.icon(
