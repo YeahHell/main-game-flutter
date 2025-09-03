@@ -97,7 +97,6 @@ import iOS_NNSBComponent
         let tpToken = args["tpToken"] as? String ?? ""
         let balance = args["balance"] as? Double ?? 0
         
-        // Create Mega645 view
         var gameView: AnyView?
         if id == "mega645" {
             gameView = AnyView(
@@ -121,6 +120,7 @@ import iOS_NNSBComponent
     
     private func requestDeposit(nav: UINavigationController, channel: FlutterMethodChannel, gameID: String) {
         print("onRequestDeposit called")
+        // gameID is the argument for the dialog to return to the specific game
         
         // 1) Pop back to Flutter first
         nav.popViewController(animated: true)
