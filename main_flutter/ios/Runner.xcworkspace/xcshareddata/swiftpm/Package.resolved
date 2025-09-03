@@ -1,5 +1,5 @@
 {
-  "originHash" : "2ede88b51c9338d6db4573d36a5f5704cd3f479c1221670f28c12bb0fdddc599",
+  "originHash" : "2d26e76f04a554ee6e52ac404cefad7104fa82fc598a12565f55f8873e432a5e",
   "pins" : [
     {
       "identity" : "alamofire",
@@ -17,6 +17,15 @@
       "state" : {
         "revision" : "5928286acce13def418ec36d05a001a9641086f2",
         "version" : "1.0.3"
+      }
+    },
+    {
+      "identity" : "ios-game-mega645-techplay",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:nanagroup/ios-game-mega645-techplay.git",
+      "state" : {
+        "revision" : "bbbc15d06d933fe7cc56414f42eca88917d57b31",
+        "version" : "1.0.12"
       }
     },
     {
