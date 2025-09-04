@@ -6,16 +6,7 @@ import 'dialogs/dialogs.dart';
 
 Future<void> openGame(String id) async {
   try {
-    final balance = await SharedPrefsHelper.instance.read<int>(
-      'balance',
-      defaultValue: 0,
-    );
-    final tpToken = await SharedPrefsHelper.instance.read<String>(
-      'tp_token',
-      defaultValue: '4-46c4619603e7b48b4966d40e6c3aa455',
-    );
-
-    await ch.invokeMethod(id, {'tpToken': tpToken, 'balance': balance, 'id' : id});
+    await ch.invokeMethod(id, {'tpToken': tpTokenManager.value, 'balance': balanceManager.value, 'id' : id});
   } catch (e) {
     print('Error opening game: $e');
     final context = navigatorKey.currentContext;
@@ -27,13 +18,8 @@ Future<void> openGame(String id) async {
 
 Future<void> openSB() async {
   try {
-    final tpToken = await SharedPrefsHelper.instance.read<String>(
-      'tp_token',
-      defaultValue: '4-46c4619603e7b48b4966d40e6c3aa455',
-    );
-
     await ch.invokeMethod('ksport_minigame', {
-      'tpToken': tpToken,
+      'tpToken': tpTokenManager.value,
       'agentId': '4',
       'meta': {
         'uid': 'k_sports_ksport',

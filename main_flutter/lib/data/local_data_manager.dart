@@ -1,53 +1,57 @@
-import 'package:shared_preferences/shared_preferences.dart';
 import 'package:flutter/material.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 
-class SharedPrefsHelper {
-  SharedPrefsHelper._();
+class DataManager<T> extends ValueNotifier<T> {
+  final String key;
+  final T defaultValue;
 
-  static final instance = SharedPrefsHelper._();
-  static final ValueNotifier<int> balance = ValueNotifier<int>(0);
+  DataManager(this.key, this.defaultValue) : super(defaultValue) {
+    _load();
+  }
 
-  Future<void> write(String key, Object value) async {
+  Future<void> _load() async {
     final prefs = await SharedPreferences.getInstance();
-    if (value is int) {
-      await prefs.setInt(key, value);
-    } else if (value is double) {
-      await prefs.setDouble(key, value);
-    } else if (value is bool) {
-      await prefs.setBool(key, value);
-    } else if (value is String) {
-      await prefs.setString(key, value);
+    if (T == int) {
+      value = (prefs.getInt(key) ?? defaultValue) as T;
+    } else if (T == double) {
+      value = (prefs.getDouble(key) ?? defaultValue) as T;
+    } else if (T == bool) {
+      value = (prefs.getBool(key) ?? defaultValue) as T;
+    } else if (T == String) {
+      value = (prefs.getString(key) ?? defaultValue) as T;
     } else {
-      throw UnsupportedError('Unsupported type');
+      throw UnsupportedError('Unsupported type $T');
     }
   }
 
-  Future<T> read<T>(String key, {required T defaultValue}) async {
+  Future<void> set(T newValue) async {
     final prefs = await SharedPreferences.getInstance();
-
-    if (T == int) {
-      final curBalance = (prefs.getInt(key) ?? defaultValue) as T;
-      if (key == 'balance') {
-        balance.value = curBalance as int;
-      }
-      return curBalance;
-    } else if (T == double) {
-      return (prefs.getDouble(key) ?? defaultValue) as T;
-    } else if (T == bool) {
-      return (prefs.getBool(key) ?? defaultValue) as T;
-    } else if (T == String) {
-      return (prefs.getString(key) ?? defaultValue) as T;
+    if (newValue is int) {
+      await prefs.setInt(key, newValue);
+    } else if (newValue is double) {
+      await prefs.setDouble(key, newValue);
+    } else if (newValue is bool) {
+      await prefs.setBool(key, newValue);
+    } else if (newValue is String) {
+      await prefs.setString(key, newValue);
     } else {
-      throw UnsupportedError('Unsupported type');
+      throw UnsupportedError('Unsupported type $T');
     }
+    value = newValue;
   }
 
   Future<int> increment(String key, {int by = 1, int defaultValue = 0}) async {
+    if (T != int) {
+      throw UnsupportedError('Increment only supported for int type');
+    }
     final prefs = await SharedPreferences.getInstance();
     final current = prefs.getInt(key) ?? defaultValue;
     final updated = current + by;
     await prefs.setInt(key, updated);
-    balance.value = updated;
+    value = updated as T;
     return updated;
   }
 }
+
+final balanceManager = DataManager<int>('balance', 0);
+final tpTokenManager = DataManager<String>('tp_token', '4-46c4619603e7b48b4966d40e6c3aa455');

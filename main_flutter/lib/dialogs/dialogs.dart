@@ -52,7 +52,7 @@ void showSuccessDialog(BuildContext context, int amount, String? gameID) {
               Navigator.of(context).pop();
               // Có thể mở lại game sau khi nạp tiền thành công
               // store in the shared preferences and pass amount
-              await SharedPrefsHelper.instance.increment(
+              await balanceManager.increment(
                 'balance',
                 by: amount,
                 defaultValue: 0,

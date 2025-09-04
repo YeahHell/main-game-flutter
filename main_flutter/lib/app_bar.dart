@@ -18,7 +18,7 @@ class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
         Padding(
           padding: const EdgeInsets.only(right: 12),
           child: ValueListenableBuilder<int>(
-              valueListenable: SharedPrefsHelper.balance,
+              valueListenable: balanceManager,
               builder: (context, balance, _) => ElevatedButton.icon(
                   onPressed: () => showDepositDialog(null),
                   style: ElevatedButton.styleFrom(
@@ -31,7 +31,7 @@ class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
                   ),
                   icon: const Icon(Icons.account_balance_wallet, size: 18, color: Colors.black),
                   label: Text(
-                    '\$${SharedPrefsHelper.balance.value}',
+                    '\$${balanceManager.value}',
                     style: const TextStyle(fontSize: 14, color: Colors.black),
                   ),
                 )
