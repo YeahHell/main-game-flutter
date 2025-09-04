@@ -33,7 +33,7 @@ class _MainGameAppState extends State<MainGameApp> {
         backgroundColor: Colors.grey[100],
         body: Center(
           child: Padding(
-            padding: const EdgeInsets.only(left: 20, right: 20, bottom: 20),
+            padding: const EdgeInsets.only(left: 20, right: 20),
             child: Column(children: [Expanded(child: CardsList())]),
           ),
         ),
