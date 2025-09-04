@@ -16,6 +16,8 @@ class _CardsListState extends State<CardsList> {
   Widget build(BuildContext context) {
     return ListView(
       children: [
+        SizedBox(height: 30),
+
         ...games.map(
           (game) => Column(
             children: [

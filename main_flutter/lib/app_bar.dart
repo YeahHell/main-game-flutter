@@ -12,6 +12,7 @@ class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
         'Aggregator',
         style: TextStyle(fontWeight: FontWeight.bold, fontSize: 20),
       ),
+      backgroundColor: Colors.transparent,
       centerTitle: true,
       actions: [
         Padding(
@@ -21,17 +22,17 @@ class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
               builder: (context, balance, _) => ElevatedButton.icon(
                   onPressed: () => showDepositDialog(null),
                   style: ElevatedButton.styleFrom(
-                    backgroundColor: Colors.black.withOpacity(0.0005),
+                    backgroundColor: Colors.transparent,
                     shape: RoundedRectangleBorder(
                       borderRadius: BorderRadius.circular(20),
                     ),
                     padding: const EdgeInsets.symmetric(
                         horizontal: 12, vertical: 6),
                   ),
-                  icon: const Icon(Icons.account_balance_wallet, size: 18),
+                  icon: const Icon(Icons.account_balance_wallet, size: 18, color: Colors.black),
                   label: Text(
                     '\$${SharedPrefsHelper.balance.value}',
-                    style: const TextStyle(fontSize: 14),
+                    style: const TextStyle(fontSize: 14, color: Colors.black),
                   ),
                 )
           ),
