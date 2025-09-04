@@ -793,8 +793,8 @@
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "git@github.com:nanagroup/ios-component-mega655.git";
 			requirement = {
-				branch = main;
-				kind = branch;
+				kind = exactVersion;
+				version = 0.0.1;
 			};
 		};
 		9C4286592E6856C0007BD734 /* XCRemoteSwiftPackageReference "ios-game-mega645-techplay" */ = {

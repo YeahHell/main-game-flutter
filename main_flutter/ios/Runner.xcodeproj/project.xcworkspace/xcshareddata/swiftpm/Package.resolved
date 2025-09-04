@@ -24,8 +24,8 @@
       "kind" : "remoteSourceControl",
       "location" : "git@github.com:nanagroup/ios-component-mega655.git",
       "state" : {
-        "branch" : "main",
-        "revision" : "b2d6a9a5dcf78e2043fc83a58b1e9fa660116d6c"
+        "revision" : "9bce694df902e07c3f6ad47aba873bf3f7d4fcb6",
+        "version" : "0.0.1"
       }
     },
     {
