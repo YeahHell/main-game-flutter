@@ -29,16 +29,6 @@ class _CardsListState extends State<CardsList> {
             ],
           ),
         ),
-
-        // Test button for deposit (có thể xóa trong production)
-        TextButton.icon(
-          onPressed: () => showDepositDialog(null),
-          icon: Icon(Icons.account_balance_wallet, color: Colors.grey),
-          label: Text(
-            'Test Deposit Dialog',
-            style: TextStyle(color: Colors.grey),
-          ),
-        ),
       ],
     );
   }

@@ -1,9 +1,11 @@
 import 'package:shared_preferences/shared_preferences.dart';
+import 'package:flutter/material.dart';
 
 class SharedPrefsHelper {
   SharedPrefsHelper._();
 
   static final instance = SharedPrefsHelper._();
+  static final ValueNotifier<int> balance = ValueNotifier<int>(0);
 
   Future<void> write(String key, Object value) async {
     final prefs = await SharedPreferences.getInstance();
@@ -16,7 +18,7 @@ class SharedPrefsHelper {
     } else if (value is String) {
       await prefs.setString(key, value);
     } else {
-      throw UnsupportedError("Unsupported type");
+      throw UnsupportedError('Unsupported type');
     }
   }
 
@@ -24,7 +26,11 @@ class SharedPrefsHelper {
     final prefs = await SharedPreferences.getInstance();
 
     if (T == int) {
-      return (prefs.getInt(key) ?? defaultValue) as T;
+      final curBalance = (prefs.getInt(key) ?? defaultValue) as T;
+      if (key == 'balance') {
+        balance.value = curBalance as int;
+      }
+      return curBalance;
     } else if (T == double) {
       return (prefs.getDouble(key) ?? defaultValue) as T;
     } else if (T == bool) {
@@ -32,7 +38,7 @@ class SharedPrefsHelper {
     } else if (T == String) {
       return (prefs.getString(key) ?? defaultValue) as T;
     } else {
-      throw UnsupportedError("Unsupported type");
+      throw UnsupportedError('Unsupported type');
     }
   }
 
@@ -41,6 +47,7 @@ class SharedPrefsHelper {
     final current = prefs.getInt(key) ?? defaultValue;
     final updated = current + by;
     await prefs.setInt(key, updated);
+    balance.value = updated;
     return updated;
   }
 }

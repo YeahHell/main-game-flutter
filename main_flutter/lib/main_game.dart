@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:main_flutter/cards_list.dart';
 import 'package:main_flutter/utils/channel_helper.dart';
+import 'app_bar.dart';
 import 'utils/navigation_service.dart';
 
 class MainGameApp extends StatefulWidget {
@@ -28,6 +29,7 @@ class _MainGameAppState extends State<MainGameApp> {
       debugShowCheckedModeBanner: false,
       navigatorKey: navigatorKey,
       home: Scaffold(
+        appBar: CustomAppBar(),
         backgroundColor: Colors.grey[100],
         body: Center(
           child: Padding(
