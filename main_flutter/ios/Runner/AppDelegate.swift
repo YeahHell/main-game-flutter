@@ -44,7 +44,7 @@ import iOS_NNSBComponent
                     if let args = call.arguments as? [String: Any] {
                         self.isGameActive = true
                         forcePortraitOrientation()
-                        self.presentMegaGame(nav: nav, args: args, channel: channel)
+                        self.presentBasicGame(nav: nav, args: args, channel: channel)
                     }
                     result(nil)
                     
@@ -91,7 +91,7 @@ import iOS_NNSBComponent
         }
     }
     
-    private func presentMegaGame(nav: UINavigationController, args: [String: Any], channel: FlutterMethodChannel) {
+    private func presentBasicGame(nav: UINavigationController, args: [String: Any], channel: FlutterMethodChannel) {
         print("present Mega Game arguments: \(args)")
         let id = args["id"] as? String ?? ""
         let tpToken = args["tpToken"] as? String ?? ""
