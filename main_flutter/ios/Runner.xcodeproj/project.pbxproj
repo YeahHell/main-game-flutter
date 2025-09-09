@@ -794,7 +794,7 @@
 			repositoryURL = "git@github.com:nanagroup/ios-component-mega655.git";
 			requirement = {
 				kind = exactVersion;
-				version = 0.0.1;
+				version = 1.0.2;
 			};
 		};
 		9C4286592E6856C0007BD734 /* XCRemoteSwiftPackageReference "ios-game-mega645-techplay" */ = {
@@ -802,7 +802,7 @@
 			repositoryURL = "git@github.com:nanagroup/ios-game-mega645-techplay.git";
 			requirement = {
 				kind = upToNextMajorVersion;
-				minimumVersion = 1.0.13;
+				minimumVersion = 1.0.14;
 			};
 		};
 /* End XCRemoteSwiftPackageReference section */

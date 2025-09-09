@@ -24,8 +24,8 @@
       "kind" : "remoteSourceControl",
       "location" : "git@github.com:nanagroup/ios-component-mega655.git",
       "state" : {
-        "revision" : "9bce694df902e07c3f6ad47aba873bf3f7d4fcb6",
-        "version" : "0.0.1"
+        "revision" : "f3442ea964bfa801b48696ad76bf90d96fb0035d",
+        "version" : "1.0.2"
       }
     },
     {
@@ -33,8 +33,8 @@
       "kind" : "remoteSourceControl",
       "location" : "git@github.com:nanagroup/ios-game-mega645-techplay.git",
       "state" : {
-        "revision" : "bf3531e1ae8363c67dfd378ba0e0e88edd9245a3",
-        "version" : "1.0.13"
+        "revision" : "4feff111a00f900225ee30a8954841fe3388f1d6",
+        "version" : "1.0.14"
       }
     },
     {
