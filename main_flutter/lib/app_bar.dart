@@ -18,23 +18,29 @@ class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
         Padding(
           padding: const EdgeInsets.only(right: 12),
           child: ValueListenableBuilder<int>(
-              valueListenable: balanceManager,
-              builder: (context, balance, _) => ElevatedButton.icon(
-                  onPressed: () => showDepositDialog(null),
-                  style: ElevatedButton.styleFrom(
-                    backgroundColor: Colors.transparent,
-                    shape: RoundedRectangleBorder(
-                      borderRadius: BorderRadius.circular(20),
-                    ),
-                    padding: const EdgeInsets.symmetric(
-                        horizontal: 12, vertical: 6),
-                  ),
-                  icon: const Icon(Icons.account_balance_wallet, size: 18, color: Colors.black),
-                  label: Text(
-                    '\$${balanceManager.value}',
-                    style: const TextStyle(fontSize: 14, color: Colors.black),
-                  ),
-                )
+            valueListenable: balanceManager,
+            builder: (context, balance, _) => ElevatedButton.icon(
+              onPressed: () => showDepositDialog(null),
+              style: ElevatedButton.styleFrom(
+                backgroundColor: Colors.transparent,
+                shape: RoundedRectangleBorder(
+                  borderRadius: BorderRadius.circular(20),
+                ),
+                padding: const EdgeInsets.symmetric(
+                  horizontal: 12,
+                  vertical: 6,
+                ),
+              ),
+              icon: const Icon(
+                Icons.account_balance_wallet,
+                size: 18,
+                color: Colors.black,
+              ),
+              label: Text(
+                '\$${balanceManager.value}',
+                style: const TextStyle(fontSize: 14, color: Colors.black),
+              ),
+            ),
           ),
         ),
       ],
@@ -43,5 +49,4 @@ class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
 
   @override
   Size get preferredSize => const Size.fromHeight(kToolbarHeight);
-
 }

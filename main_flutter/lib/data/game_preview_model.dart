@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 
-enum GameType {
-  basic, sb
-}
+enum GameType { basic, sb }
 
 class GamePreviewModel {
   final String id;
@@ -27,7 +25,7 @@ final List<GamePreviewModel> games = [
     icon: Icons.sports_esports,
     imageUrl:
         'https://img.fabet.to/bmp/826a0e5844bec3286d8b2f9bf7cf65a6/game/vi/techplay_mega_645.avif?hdsff?a=6',
-    type: GameType.basic
+    type: GameType.basic,
   ),
   GamePreviewModel(
     id: 'power655',
@@ -35,15 +33,15 @@ final List<GamePreviewModel> games = [
     icon: Icons.sports_esports,
     imageUrl:
         'https://img.fabet.to/bmp/826a0e5844bec3286d8b2f9bf7cf65a6/game/vi/techplay_power_655.avif?hdsff?a=7',
-      type: GameType.basic
+    type: GameType.basic,
   ),
 
   GamePreviewModel(
-      id: 'ksport_minigame',
-      name: 'K-Sports',
-      icon: Icons.sports_esports,
-      imageUrl:
-      'https://img.fabet.to/bmp/826a0e5844bec3286d8b2f9bf7cf65a6/game/vi/ksports_landscape.avif?LCXPt?a=6',
-      type: GameType.sb
+    id: 'ksport_minigame',
+    name: 'K-Sports',
+    icon: Icons.sports_esports,
+    imageUrl:
+        'https://img.fabet.to/bmp/826a0e5844bec3286d8b2f9bf7cf65a6/game/vi/ksports_landscape.avif?LCXPt?a=6',
+    type: GameType.sb,
   ),
 ];

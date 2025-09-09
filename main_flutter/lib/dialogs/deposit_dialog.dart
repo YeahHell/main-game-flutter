@@ -2,11 +2,11 @@ import 'package:flutter/material.dart';
 import '../utils/navigation_service.dart';
 import '../deposit_option.dart';
 
-
 void showDepositDialog(String? gameID, [BuildContext? dialogContext]) {
   print('_showDepositDialog called'); // Debug log
 
-  final BuildContext? targetContext = dialogContext ?? navigatorKey.currentContext;
+  final BuildContext? targetContext =
+      dialogContext ?? navigatorKey.currentContext;
 
   // Đảm bảo context có MaterialLocalizations
   if (targetContext == null) {
@@ -19,9 +19,7 @@ void showDepositDialog(String? gameID, [BuildContext? dialogContext]) {
     barrierDismissible: true,
     builder: (BuildContext context) {
       return AlertDialog(
-        shape: RoundedRectangleBorder(
-          borderRadius: BorderRadius.circular(16),
-        ),
+        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
         title: Row(
           children: [
             Icon(Icons.account_balance_wallet, color: Colors.green),

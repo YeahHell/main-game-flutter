@@ -3,12 +3,11 @@ import 'package:flutter/services.dart';
 import '../dialogs/deposit_dialog.dart';
 import 'navigation_service.dart';
 
-
 class MethodChannelHelper {
   static Future<void> handleMethodCall(
-      BuildContext? context,
-      MethodCall call,
-      ) async {
+    BuildContext? context,
+    MethodCall call,
+  ) async {
     print('Received method call: ${call.method}'); // Debug log
     print('call arguments: ${call.arguments}');
     // we can pass this arguments to understand what app should be returned etc

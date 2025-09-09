@@ -2,11 +2,13 @@ import 'data/local_data_manager.dart';
 import 'utils/navigation_service.dart';
 import 'dialogs/dialogs.dart';
 
-
-
 Future<void> openGame(String id) async {
   try {
-    await ch.invokeMethod(id, {'tpToken': tpTokenManager.value, 'balance': balanceManager.value, 'id' : id});
+    await ch.invokeMethod(id, {
+      'tpToken': tpTokenManager.value,
+      'balance': balanceManager.value,
+      'id': id,
+    });
   } catch (e) {
     print('Error opening game: $e');
     final context = navigatorKey.currentContext;

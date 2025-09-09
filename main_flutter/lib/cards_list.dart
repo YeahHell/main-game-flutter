@@ -22,7 +22,8 @@ class _CardsListState extends State<CardsList> {
           (game) => Column(
             children: [
               GameCard(
-                onGameTap: () => game.type == GameType.sb ? openSB() : openGame(game.id),
+                onGameTap: () =>
+                    game.type == GameType.sb ? openSB() : openGame(game.id),
                 title: game.name,
                 icon: game.icon,
                 buttonImageURL: game.imageUrl,
