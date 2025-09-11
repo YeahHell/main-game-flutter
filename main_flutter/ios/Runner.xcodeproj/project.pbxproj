@@ -18,6 +18,7 @@
 		97C146FC1CF9000F007C117D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97C146FA1CF9000F007C117D /* Main.storyboard */; };
 		97C146FE1CF9000F007C117D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 97C146FD1CF9000F007C117D /* Assets.xcassets */; };
 		97C147011CF9000F007C117D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97C146FF1CF9000F007C117D /* LaunchScreen.storyboard */; };
+		9C1C7C2D2E72A451003C2F75 /* Lodesieutoc in Frameworks */ = {isa = PBXBuildFile; productRef = 9C1C7C2C2E72A451003C2F75 /* Lodesieutoc */; };
 		9C35CB752E685FD100F0F6F2 /* Power655 in Frameworks */ = {isa = PBXBuildFile; productRef = 9C35CB742E685FD100F0F6F2 /* Power655 */; };
 		9C42865B2E6856C0007BD734 /* Mega645 in Frameworks */ = {isa = PBXBuildFile; productRef = 9C42865A2E6856C0007BD734 /* Mega645 */; };
 		9C551C452E5DA6C20069ABF7 /* Mega645 in Frameworks */ = {isa = PBXBuildFile; productRef = 9C551C442E5DA6C20069ABF7 /* Mega645 */; };
@@ -83,6 +84,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9C1C7C2D2E72A451003C2F75 /* Lodesieutoc in Frameworks */,
 				9C551C452E5DA6C20069ABF7 /* Mega645 in Frameworks */,
 				96ABAEF12E5C7EB9000F61FB /* iOS_NNSBComponent in Frameworks */,
 				AF140A6D2E535F3000FB4BB1 /* iOS_NNSBComponent in Frameworks */,
@@ -266,6 +268,7 @@
 				9C4286592E6856C0007BD734 /* XCRemoteSwiftPackageReference "ios-game-mega645-techplay" */,
 				9C35CB732E685FD100F0F6F2 /* XCRemoteSwiftPackageReference "ios-component-mega655" */,
 				9CFD8AD72E72A0FC00F2C183 /* XCRemoteSwiftPackageReference "ldmd5-ios" */,
+				9C1C7C2B2E72A451003C2F75 /* XCRemoteSwiftPackageReference "lodesieutoc-ios-component" */,
 			);
 			productRefGroup = 97C146EF1CF9000F007C117D /* Products */;
 			projectDirPath = "";
@@ -792,6 +795,14 @@
 				minimumVersion = 0.2.5;
 			};
 		};
+		9C1C7C2B2E72A451003C2F75 /* XCRemoteSwiftPackageReference "lodesieutoc-ios-component" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "git@github.com:nanagroup/lodesieutoc-ios-component.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.0.5;
+			};
+		};
 		9C35CB732E685FD100F0F6F2 /* XCRemoteSwiftPackageReference "ios-component-mega655" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "git@github.com:nanagroup/ios-component-mega655.git";
@@ -836,6 +847,11 @@
 		96F099612E5B54EA00CE6208 /* iOS_NNSBComponent */ = {
 			isa = XCSwiftPackageProductDependency;
 			productName = iOS_NNSBComponent;
+		};
+		9C1C7C2C2E72A451003C2F75 /* Lodesieutoc */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 9C1C7C2B2E72A451003C2F75 /* XCRemoteSwiftPackageReference "lodesieutoc-ios-component" */;
+			productName = Lodesieutoc;
 		};
 		9C35CB742E685FD100F0F6F2 /* Power655 */ = {
 			isa = XCSwiftPackageProductDependency;

@@ -1,5 +1,5 @@
 {
-  "originHash" : "20ae21fac85c160f33da1037eb7019332a2465325fc4f7ded9f533d9863ed880",
+  "originHash" : "f8d682b810637d0e78c4a7f6422711e3d308b98551359ddbffabac46135e67be",
   "pins" : [
     {
       "identity" : "alamofire",
@@ -80,6 +80,15 @@
       "state" : {
         "revision" : "71352d4b73fd0576df7fa909f590f2dadee1ca7f",
         "version" : "1.0.15"
+      }
+    },
+    {
+      "identity" : "lodesieutoc-ios-component",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:nanagroup/lodesieutoc-ios-component.git",
+      "state" : {
+        "revision" : "dc1bd2ca9d41c9b51b7ebfceffe156cd47c4c3e5",
+        "version" : "1.0.5"
       }
     },
     {
