@@ -6,6 +6,7 @@ import AVKit
 import Mega645
 import Power655
 import iOS_NNSBComponent
+import LDMD5
 
 @main
 @objc class AppDelegate: FlutterAppDelegate {
@@ -40,7 +41,7 @@ import iOS_NNSBComponent
                 guard let self = self else { return }
                 
                 switch call.method {
-                case "mega645", "power655":
+                case "mega645", "power655", "lode_md5":
                     if let args = call.arguments as? [String: Any] {
                         self.isGameActive = true
                         forcePortraitOrientation()
@@ -101,14 +102,27 @@ import iOS_NNSBComponent
         if id == "mega645" {
             gameView = AnyView(
                 Mega645(token: tpToken, balance: balance) {
-                    self.requestDeposit(nav: nav, channel: channel, gameID: "mega645")
+                    self.requestDeposit(nav: nav, channel: channel, gameID: id)
                 }.ignoresSafeArea(edges: .top)
             )
         } else if id == "power655" {
             gameView = AnyView(
                 Power655(token: tpToken, balance: balance) {
-                    self.requestDeposit(nav: nav, channel: channel, gameID: "power655")
+                    self.requestDeposit(nav: nav, channel: channel, gameID: id)
                 }.ignoresSafeArea(edges: .top)
+            )
+        } else if id == "lode_md5" {
+            LDMD5.shared.prepare()
+            LDMD5.shared.setToken(tpToken)
+            gameView = AnyView(
+                LDMD5LauncherView(onFinish: {
+                    nav.popViewController(animated: true)
+                    self.isGameActive = false
+                    print("finished game====")
+                }, onRequestDeposit: {
+                    self.requestDeposit(nav: nav, channel: channel, gameID: id)
+                }).navigationBarHidden(true)
+                .ignoresSafeArea(.all)
             )
         }
         

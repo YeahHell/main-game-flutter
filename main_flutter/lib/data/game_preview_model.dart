@@ -37,6 +37,15 @@ final List<GamePreviewModel> games = [
   ),
 
   GamePreviewModel(
+    id: 'lode_md5',
+    name: 'Welcome to Lode MD5',
+    icon: Icons.sports_esports,
+    imageUrl:
+        'https://img.fabet.to/bmp/826a0e5844bec3286d8b2f9bf7cf65a6/game/vi/sieu_toc_md5.avif?hdsff?a=8',
+    type: GameType.basic,
+  ),
+
+  GamePreviewModel(
     id: 'ksport_minigame',
     name: 'K-Sports',
     icon: Icons.sports_esports,
