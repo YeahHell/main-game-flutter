@@ -20,7 +20,7 @@ class GamePreviewModel {
 
 final List<GamePreviewModel> games = [
   GamePreviewModel(
-    id: 'mega645',
+    id: 'techplay_mn_1008',
     name: 'Welcome to Mega 6/45',
     icon: Icons.sports_esports,
     imageUrl:
@@ -28,8 +28,8 @@ final List<GamePreviewModel> games = [
     type: GameType.basic,
   ),
   GamePreviewModel(
-    id: 'power655',
-    name: 'Welcome to Power 6/55',
+    id: 'techplay_mn_1009',
+    name: 'Power 6/55',
     icon: Icons.sports_esports,
     imageUrl:
     'https://img.fabet.to/bmp/826a0e5844bec3286d8b2f9bf7cf65a6/game/vi/techplay_power_655.avif?hdsff?a=7',
@@ -38,7 +38,7 @@ final List<GamePreviewModel> games = [
 
   GamePreviewModel(
     id: 'techplay_lodemd5',
-    name: 'Welcome to Lode MD5',
+    name: 'Siêu Tốc MD5',
     icon: Icons.sports_esports,
     imageUrl:
     'https://img.fabet.to/bmp/826a0e5844bec3286d8b2f9bf7cf65a6/game/vi/sieu_toc_md5.avif?hdsff?a=8',
@@ -46,7 +46,7 @@ final List<GamePreviewModel> games = [
   ),
 
   GamePreviewModel(id: 'techplay_lode_virtual',
-      name: 'Welcome to Lô Đề Siêu Tốc',
+      name: 'Lô Đề Siêu Tốc',
       icon: Icons.sports_esports,
       imageUrl: 'https://img.fabet.to/bmp/826a0e5844bec3286d8b2f9bf7cf65a6/game/vi/lo_de_sieu_toc.avif?hdsff?a=8',
       type: GameType.basic),

@@ -3,16 +3,11 @@ import Flutter
 import UIKit
 import SwiftUI
 import AVKit
-import Mega645
-import Power655
 import iOS_NNSBComponent
-import LDMD5
-import Lodesieutoc
 
 @main
 @objc class AppDelegate: FlutterAppDelegate {
-    
-    private var isGameActive = false
+    var isGameActive = false
     
     // MARK: - App lifecycle
     override func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
@@ -42,7 +37,7 @@ import Lodesieutoc
                 guard let self = self else { return }
                 
                 switch call.method {
-                case "mega645", "power655", "techplay_lodemd5", "techplay_lode_virtual":
+                case "techplay_mn_1008", "techplay_mn_1009", "techplay_lodemd5", "techplay_lode_virtual":
                     if let args = call.arguments as? [String: Any] {
                         self.isGameActive = true
                         forcePortraitOrientation()
@@ -92,58 +87,9 @@ import Lodesieutoc
             print("Orientation change error: \(error)")
         }
     }
-    
-    private func presentBasicGame(nav: UINavigationController, args: [String: Any], channel: FlutterMethodChannel) {
-        print("present Mega Game arguments: \(args)")
-        let id = args["id"] as? String ?? ""
-        let tpToken = args["tpToken"] as? String ?? ""
-        let balance = args["balance"] as? Double ?? 0
         
-        var gameView: AnyView?
-        if id == "mega645" {
-            gameView = AnyView(
-                Mega645(token: tpToken, balance: balance) {
-                    self.requestDeposit(nav: nav, channel: channel, gameID: id)
-                }.ignoresSafeArea(edges: .top)
-            )
-        } else if id == "power655" {
-            gameView = AnyView(
-                Power655(token: tpToken, balance: balance) {
-                    self.requestDeposit(nav: nav, channel: channel, gameID: id)
-                }.ignoresSafeArea(edges: .top)
-            )
-        } else if id == "techplay_lodemd5" {
-            LDMD5.shared.prepare()
-            LDMD5.shared.setToken(tpToken)
-            gameView = AnyView(
-                LDMD5LauncherView(onFinish: {
-                    nav.popViewController(animated: true)
-                    self.isGameActive = false
-                }, onRequestDeposit: {
-                    self.requestDeposit(nav: nav, channel: channel, gameID: id)
-                }).navigationBarHidden(true)
-                    .ignoresSafeArea(.all)
-            )
-        } else if id == "techplay_lode_virtual" {
-            LDST.shared.prepare()
-            LDST.shared.setToken(tpToken)
-            gameView = AnyView(
-                LDSTLauncherView(onFinish: {
-                    nav.popViewController(animated: true)
-                    self.isGameActive = false
-                }, onRequestDeposit: {
-                    self.requestDeposit(nav: nav, channel: channel, gameID: id)
-                }).ignoresSafeArea(.all)
-            )
-        }
-        
-        let host = UIHostingController(rootView: AnyView(gameView))
-        host.hidesBottomBarWhenPushed = true
-        nav.pushViewController(host, animated: true)
-    }
     
-    
-    private func requestDeposit(nav: UINavigationController, channel: FlutterMethodChannel, gameID: String) {
+    func requestDeposit(nav: UINavigationController, channel: FlutterMethodChannel, gameID: String) {
         print("onRequestDeposit called")
         // gameID is the argument for the dialog to return to the specific game
         
