@@ -119,7 +119,6 @@ import Lodesieutoc
                 LDMD5LauncherView(onFinish: {
                     nav.popViewController(animated: true)
                     self.isGameActive = false
-                    print("finished game====")
                 }, onRequestDeposit: {
                     self.requestDeposit(nav: nav, channel: channel, gameID: id)
                 }).navigationBarHidden(true)

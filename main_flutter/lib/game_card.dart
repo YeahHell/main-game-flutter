@@ -8,17 +8,17 @@ class GameCard extends StatelessWidget {
   final VoidCallback onGameTap;
 
   const GameCard({
-    Key? key,
+    super.key,
     required this.onGameTap,
     required this.title,
     required this.icon,
     required this.buttonImageURL,
-  }) : super(key: key);
+  });
 
   @override
   Widget build(BuildContext context) {
     return Container(
-      padding: EdgeInsets.all(40),
+      padding: EdgeInsets.all(5),
       decoration: BoxDecoration(
         color: Colors.white,
         borderRadius: BorderRadius.circular(20),
@@ -32,19 +32,7 @@ class GameCard extends StatelessWidget {
       ),
       child: Column(
         children: [
-          Icon(icon, size: 80, color: Colors.blue),
-          SizedBox(height: 10),
-          Text(
-            title,
-            textAlign: TextAlign.center,
-            style: TextStyle(
-              fontSize: 24,
-              fontWeight: FontWeight.bold,
-              color: Colors.grey[800],
-            ),
-          ),
-          SizedBox(height: 10),
-          ImageButton(imageUrl: buttonImageURL, onTap: onGameTap),
+          ImageButton(imageUrl: buttonImageURL, height: 130, width: double.infinity, onTap: onGameTap),
         ],
       ),
     );
