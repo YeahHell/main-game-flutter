@@ -62,5 +62,10 @@ extension AppDelegate {
         let host = UIHostingController(rootView: AnyView(gameView))
         host.hidesBottomBarWhenPushed = true
         nav.pushViewController(host, animated: true)
+
+        DispatchQueue.main.async {
+            nav.interactivePopGestureRecognizer?.isEnabled = true
+            nav.interactivePopGestureRecognizer?.delegate = nil
+        }
     }
 }

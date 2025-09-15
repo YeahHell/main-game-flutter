@@ -68,6 +68,7 @@ import SwiftUI
     }
     
     override func application(_ application: UIApplication, supportedInterfaceOrientationsFor window: UIWindow?) -> UIInterfaceOrientationMask {
+        print("IS GAME ACTIVE: \(isGameActive)")
         if isGameActive {
             return .portrait
         }
